@@ -15,6 +15,6 @@ SOLID principles
 OOPS
 Java 8 Lambda functions
 Multithreading
-Spring Boot Situational Questions (Bean Scope, annotations,
+Spring Boot Situational Questions (Bean Scope, annotations, Propogations ..)
 --
 SQL (datalemur)
