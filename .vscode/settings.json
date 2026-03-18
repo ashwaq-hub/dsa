@@ -1,0 +1,7 @@
+{
+    "files.watcherExclude": {
+        "**/target": true
+    },
+    "snyk.advanced.organization": "97c11d5f-139a-47fe-85f8-b266e760dbfc",
+    "snyk.advanced.autoSelectOrganization": true
+}

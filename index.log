@@ -1,0 +1,77 @@
+Folder PATH listing for volume Frontface
+Volume serial number is 2C43-85AE
+E:.
+|   index.log
+|   InterviewPatterns.md
+|   README.md
+|   
++---.metals
+|   |   metals.lock.db
+|   |   metals.log
+|   |   metals.mv.db
+|   |   
+|   \---.reports
+|       \---metals-full
+|           \---2026-03-17
+|                   r_qdox-error_23-30-04-221.md
+|                   r_qdox-error_23-32-46-505.md
+|                   
++---.qodo
+|   +---agents
+|   \---workflows
++---.vscode
+|       settings.json
+|       
++---0-Difficulty
+|   \---EASY
+|           BuyAndSellStock.class
+|           BuyAndSellStock.java
+|           ContainsDuplicate.class
+|           ContainsDuplicate.java
+|           SlidingWindowMaxLen.class
+|           SlidingWindowMaxLen.java
+|           TwoSum.class
+|           TwoSum.java
+|           ValidAnagram.class
+|           ValidAnagram.java
+|           ValidParanthesis.class
+|           ValidParanthesis.java
+|           
++---Arrays & Hashing
+|       GroupAnagrams.java
+|       TopKFrequent.java
+|       TwoSum.java
+|       
++---Binary Search
+|       KokoEating.java
+|       SearchRotated.java
+|       
++---Graphs
+|       CourseSchedule.java
+|       SinkTheIsland.java
+|       WordLadder.java
+|       
++---Heap_PQ
+|       KthLargest.java
+|       MedianFinder.java
+|       
++---Linked List
+|       LRUCache.java
+|       ReverseList.java
+|       
++---Sliding Window
+|       LongestSubstring.java
+|       MinWindowSubstr.java
+|       
++---Stack
+|       DailyTemps.java
+|       ValidParentheses.java
+|       
++---Trees
+|       LevelOrder.java
+|       ValidateBST.java
+|       
+\---Two Pointers
+        3Sum.java
+        ContainerWater.java
+        

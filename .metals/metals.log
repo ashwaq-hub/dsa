@@ -1,0 +1,1599 @@
+2026.03.17 23:16:24 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.03.17 23:16:24 INFO  no build target found for E:\codedecode\dsa\Arrays & Hashing\TwoSum.java. Using fallback presentation compiler.
+2026.03.17 23:16:26 WARN  no build tool detected in workspace 'E:\codedecode\dsa'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.03.17 23:16:26 WARN  Build server is not auto-connectable.
+2026.03.17 23:16:26 WARN  no build target for: E:\codedecode\dsa\Arrays & Hashing\TwoSum.java
+2026.03.17 23:16:26 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Arrays%20&%20Hashing/TwoSum.java. Output:
+
+2026.03.17 23:19:51 INFO  no build target found for E:\codedecode\dsa\Arrays & Hashing\TwoSum.java. Using fallback presentation compiler.
+2026.03.17 23:19:51 INFO  no build target found for E:\codedecode\dsa\Arrays & Hashing\TwoSum.java. Using fallback presentation compiler.
+2026.03.17 23:20:09 INFO  no build target found for E:\codedecode\dsa\Arrays & Hashing\TwoSum.java. Using fallback presentation compiler.
+2026.03.17 23:20:10 WARN  no build target for: E:\codedecode\dsa\Arrays & Hashing\GroupAnagrams.java
+2026.03.17 23:20:09 INFO  no build target found for E:\codedecode\dsa\Arrays & Hashing\GroupAnagrams.java. Using fallback presentation compiler.
+2026.03.17 23:20:10 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Arrays%20&%20Hashing/GroupAnagrams.java. Output:
+
+Mar 17, 2026 11:20:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13
+2026.03.17 23:20:09 INFO  no build target found for E:\codedecode\dsa\Arrays & Hashing\GroupAnagrams.java. Using fallback presentation compiler.
+2026.03.17 23:20:48 INFO  no build target found for E:\codedecode\dsa\Arrays & Hashing\GroupAnagrams.java. Using fallback presentation compiler.
+2026.03.17 23:20:48 INFO  no build target found for E:\codedecode\dsa\Arrays & Hashing\GroupAnagrams.java. Using fallback presentation compiler.
+2026.03.17 23:20:49 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Arrays%20&%20Hashing/GroupAnagrams.java. Output:
+
+2026.03.17 23:20:48 INFO  no build target found for E:\codedecode\dsa\Arrays & Hashing\GroupAnagrams.java. Using fallback presentation compiler.
+2026.03.17 23:20:49 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Arrays%20&%20Hashing/GroupAnagrams.java. Output:
+
+2026.03.17 23:20:54 INFO  no build target found for E:\codedecode\dsa\Arrays & Hashing\GroupAnagrams.java. Using fallback presentation compiler.
+2026.03.17 23:20:54 INFO  no build target found for E:\codedecode\dsa\Arrays & Hashing\GroupAnagrams.java. Using fallback presentation compiler.
+2026.03.17 23:20:55 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Arrays%20&%20Hashing/GroupAnagrams.java. Output:
+
+2026.03.17 23:20:56 INFO  no build target found for E:\codedecode\dsa\Arrays & Hashing\GroupAnagrams.java. Using fallback presentation compiler.
+2026.03.17 23:20:56 WARN  no build target for: E:\codedecode\dsa\Arrays & Hashing\GroupAnagrams.java
+2026.03.17 23:20:56 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Arrays%20&%20Hashing/GroupAnagrams.java. Output:
+
+2026.03.17 23:20:56 INFO  no build target found for E:\codedecode\dsa\Arrays & Hashing\GroupAnagrams.java. Using fallback presentation compiler.
+2026.03.17 23:21:14 WARN  no build target for: E:\codedecode\dsa\Arrays & Hashing\TopKFrequent.java
+2026.03.17 23:21:14 INFO  no build target found for E:\codedecode\dsa\Arrays & Hashing\TopKFrequent.java. Using fallback presentation compiler.
+2026.03.17 23:21:15 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Arrays%20&%20Hashing/TopKFrequent.java. Output:
+
+2026.03.17 23:21:14 INFO  no build target found for E:\codedecode\dsa\Arrays & Hashing\TopKFrequent.java. Using fallback presentation compiler.
+2026.03.17 23:21:45 WARN  no build target for: E:\codedecode\dsa\Arrays & Hashing\GroupAnagrams.java
+2026.03.17 23:21:45 INFO  no build target found for E:\codedecode\dsa\Arrays & Hashing\GroupAnagrams.java. Using fallback presentation compiler.
+2026.03.17 23:21:45 INFO  no build target found for E:\codedecode\dsa\Arrays & Hashing\GroupAnagrams.java. Using fallback presentation compiler.
+2026.03.17 23:21:47 INFO  no build target found for E:\codedecode\dsa\Arrays & Hashing\TopKFrequent.java. Using fallback presentation compiler.
+2026.03.17 23:21:47 WARN  no build target for: E:\codedecode\dsa\Arrays & Hashing\TopKFrequent.java
+2026.03.17 23:21:47 INFO  no build target found for E:\codedecode\dsa\Arrays & Hashing\TopKFrequent.java. Using fallback presentation compiler.
+2026.03.17 23:22:27 INFO  no build target found for E:\codedecode\dsa\Arrays & Hashing\TopKFrequent.java. Using fallback presentation compiler.
+2026.03.17 23:22:27 INFO  no build target found for E:\codedecode\dsa\Arrays & Hashing\TopKFrequent.java. Using fallback presentation compiler.
+2026.03.17 23:22:27 INFO  no build target found for E:\codedecode\dsa\Arrays & Hashing\TopKFrequent.java. Using fallback presentation compiler.
+2026.03.17 23:22:27 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Arrays%20&%20Hashing/TopKFrequent.java. Output:
+
+2026.03.17 23:22:27 INFO  no build target found for E:\codedecode\dsa\Arrays & Hashing\TopKFrequent.java. Using fallback presentation compiler.
+2026.03.17 23:22:28 INFO  no build target found for E:\codedecode\dsa\Arrays & Hashing\TopKFrequent.java. Using fallback presentation compiler.
+2026.03.17 23:22:28 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Arrays%20&%20Hashing/TopKFrequent.java. Output:
+
+2026.03.17 23:22:28 INFO  no build target found for E:\codedecode\dsa\Arrays & Hashing\TopKFrequent.java. Using fallback presentation compiler.
+2026.03.17 23:22:30 INFO  no build target found for E:\codedecode\dsa\Arrays & Hashing\TopKFrequent.java. Using fallback presentation compiler.
+2026.03.17 23:22:30 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Arrays%20&%20Hashing/TopKFrequent.java. Output:
+
+2026.03.17 23:22:35 INFO  no build target found for E:\codedecode\dsa\Arrays & Hashing\TopKFrequent.java. Using fallback presentation compiler.
+2026.03.17 23:22:35 WARN  no build target for: E:\codedecode\dsa\Arrays & Hashing\TopKFrequent.java
+2026.03.17 23:22:35 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Arrays%20&%20Hashing/TopKFrequent.java. Output:
+
+2026.03.17 23:22:35 INFO  no build target found for E:\codedecode\dsa\Arrays & Hashing\TopKFrequent.java. Using fallback presentation compiler.
+2026.03.17 23:22:37 INFO  no build target found for E:\codedecode\dsa\Arrays & Hashing\TopKFrequent.java. Using fallback presentation compiler.
+2026.03.17 23:22:37 INFO  no build target found for E:\codedecode\dsa\Arrays & Hashing\TopKFrequent.java. Using fallback presentation compiler.
+2026.03.17 23:22:38 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Arrays%20&%20Hashing/TopKFrequent.java. Output:
+
+2026.03.17 23:22:37 INFO  no build target found for E:\codedecode\dsa\Arrays & Hashing\TopKFrequent.java. Using fallback presentation compiler.
+2026.03.17 23:22:38 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Arrays%20&%20Hashing/TopKFrequent.java. Output:
+
+2026.03.17 23:22:39 INFO  no build target found for E:\codedecode\dsa\Arrays & Hashing\TopKFrequent.java. Using fallback presentation compiler.
+2026.03.17 23:22:39 WARN  no build target for: E:\codedecode\dsa\Arrays & Hashing\TopKFrequent.java
+2026.03.17 23:22:39 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Arrays%20&%20Hashing/TopKFrequent.java. Output:
+
+2026.03.17 23:22:39 INFO  no build target found for E:\codedecode\dsa\Arrays & Hashing\TopKFrequent.java. Using fallback presentation compiler.
+2026.03.17 23:22:42 INFO  no build target found for E:\codedecode\dsa\Arrays & Hashing\TopKFrequent.java. Using fallback presentation compiler.
+2026.03.17 23:22:42 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Arrays%20&%20Hashing/TopKFrequent.java. Output:
+
+2026.03.17 23:22:42 INFO  no build target found for E:\codedecode\dsa\Arrays & Hashing\TopKFrequent.java. Using fallback presentation compiler.
+2026.03.17 23:22:43 INFO  no build target found for E:\codedecode\dsa\Arrays & Hashing\TopKFrequent.java. Using fallback presentation compiler.
+2026.03.17 23:22:43 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Arrays%20&%20Hashing/TopKFrequent.java. Output:
+
+2026.03.17 23:22:43 INFO  no build target found for E:\codedecode\dsa\Arrays & Hashing\TopKFrequent.java. Using fallback presentation compiler.
+2026.03.17 23:22:44 WARN  no build target for: E:\codedecode\dsa\Arrays & Hashing\TopKFrequent.java
+2026.03.17 23:22:43 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Arrays%20&%20Hashing/TopKFrequent.java. Output:
+
+2026.03.17 23:22:43 INFO  no build target found for E:\codedecode\dsa\Arrays & Hashing\TopKFrequent.java. Using fallback presentation compiler.
+2026.03.17 23:22:44 WARN  no build target for: E:\codedecode\dsa\Arrays & Hashing\TopKFrequent.java
+2026.03.17 23:22:46 INFO  no build target found for E:\codedecode\dsa\Arrays & Hashing\TopKFrequent.java. Using fallback presentation compiler.
+2026.03.17 23:22:46 INFO  no build target found for E:\codedecode\dsa\Arrays & Hashing\TopKFrequent.java. Using fallback presentation compiler.
+2026.03.17 23:22:46 INFO  no build target found for E:\codedecode\dsa\Arrays & Hashing\TopKFrequent.java. Using fallback presentation compiler.
+2026.03.17 23:22:53 WARN  no build target for: E:\codedecode\dsa\Arrays & Hashing\GroupAnagrams.java
+2026.03.17 23:22:53 INFO  no build target found for E:\codedecode\dsa\Arrays & Hashing\GroupAnagrams.java. Using fallback presentation compiler.
+2026.03.17 23:22:53 INFO  no build target found for E:\codedecode\dsa\Arrays & Hashing\GroupAnagrams.java. Using fallback presentation compiler.
+2026.03.17 23:22:55 WARN  no build target for: E:\codedecode\dsa\Arrays & Hashing\GroupAnagrams.java
+2026.03.17 23:22:56 WARN  no build target for: E:\codedecode\dsa\Arrays & Hashing\TopKFrequent.java
+2026.03.17 23:22:59 WARN  no build target for: E:\codedecode\dsa\Arrays & Hashing\TopKFrequent.java
+2026.03.17 23:23:00 WARN  no build target for: E:\codedecode\dsa\Arrays & Hashing\GroupAnagrams.java
+2026.03.17 23:23:01 INFO  no build target found for E:\codedecode\dsa\Arrays & Hashing\GroupAnagrams.java. Using fallback presentation compiler.
+2026.03.17 23:23:01 INFO  no build target found for E:\codedecode\dsa\Arrays & Hashing\GroupAnagrams.java. Using fallback presentation compiler.
+2026.03.17 23:23:02 WARN  no build target for: E:\codedecode\dsa\Arrays & Hashing\TopKFrequent.java
+2026.03.17 23:23:04 WARN  no build target for: E:\codedecode\dsa\Arrays & Hashing\GroupAnagrams.java
+2026.03.17 23:23:04 INFO  no build target found for E:\codedecode\dsa\Arrays & Hashing\GroupAnagrams.java. Using fallback presentation compiler.
+2026.03.17 23:23:04 INFO  no build target found for E:\codedecode\dsa\Arrays & Hashing\GroupAnagrams.java. Using fallback presentation compiler.
+2026.03.17 23:23:06 WARN  no build target for: E:\codedecode\dsa\Arrays & Hashing\TopKFrequent.java
+2026.03.17 23:23:09 WARN  no build target for: E:\codedecode\dsa\Arrays & Hashing\TwoSum.java
+2026.03.17 23:23:09 INFO  no build target found for E:\codedecode\dsa\Arrays & Hashing\TwoSum.java. Using fallback presentation compiler.
+2026.03.17 23:23:09 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Arrays%20&%20Hashing/TwoSum.java. Output:
+
+2026.03.17 23:23:09 INFO  no build target found for E:\codedecode\dsa\Arrays & Hashing\TwoSum.java. Using fallback presentation compiler.
+Mar 17, 2026 11:23:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 221
+2026.03.17 23:23:15 INFO  no build target found for E:\codedecode\dsa\Arrays & Hashing\TwoSum.java. Using fallback presentation compiler.
+2026.03.17 23:23:15 INFO  no build target found for E:\codedecode\dsa\Binary Search\KokoEating.java. Using fallback presentation compiler.
+2026.03.17 23:23:15 WARN  no build target for: E:\codedecode\dsa\Binary Search\KokoEating.java
+2026.03.17 23:23:15 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Binary%20Search/KokoEating.java. Output:
+
+2026.03.17 23:23:15 INFO  no build target found for E:\codedecode\dsa\Binary Search\KokoEating.java. Using fallback presentation compiler.
+2026.03.17 23:23:25 INFO  no build target found for E:\codedecode\dsa\Binary Search\KokoEating.java. Using fallback presentation compiler.
+2026.03.17 23:23:25 INFO  no build target found for E:\codedecode\dsa\Binary Search\KokoEating.java. Using fallback presentation compiler.
+2026.03.17 23:23:25 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Binary%20Search/KokoEating.java. Output:
+
+2026.03.17 23:23:26 INFO  no build target found for E:\codedecode\dsa\Binary Search\KokoEating.java. Using fallback presentation compiler.
+2026.03.17 23:23:26 INFO  no build target found for E:\codedecode\dsa\Binary Search\KokoEating.java. Using fallback presentation compiler.
+2026.03.17 23:23:27 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Binary%20Search/KokoEating.java. Output:
+
+2026.03.17 23:23:29 INFO  no build target found for E:\codedecode\dsa\Binary Search\KokoEating.java. Using fallback presentation compiler.
+2026.03.17 23:23:29 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Binary%20Search/KokoEating.java. Output:
+
+2026.03.17 23:23:30 INFO  no build target found for E:\codedecode\dsa\Binary Search\KokoEating.java. Using fallback presentation compiler.
+2026.03.17 23:23:34 INFO  no build target found for E:\codedecode\dsa\Binary Search\KokoEating.java. Using fallback presentation compiler.
+2026.03.17 23:23:34 INFO  no build target found for E:\codedecode\dsa\Binary Search\KokoEating.java. Using fallback presentation compiler.
+2026.03.17 23:23:37 INFO  no build target found for E:\codedecode\dsa\Binary Search\KokoEating.java. Using fallback presentation compiler.
+2026.03.17 23:23:37 WARN  no build target for: E:\codedecode\dsa\Binary Search\KokoEating.java
+2026.03.17 23:23:37 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Binary%20Search/KokoEating.java. Output:
+
+2026.03.17 23:23:39 INFO  no build target found for E:\codedecode\dsa\Binary Search\KokoEating.java. Using fallback presentation compiler.
+2026.03.17 23:23:40 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Binary%20Search/KokoEating.java. Output:
+
+2026.03.17 23:23:40 INFO  no build target found for E:\codedecode\dsa\Binary Search\KokoEating.java. Using fallback presentation compiler.
+2026.03.17 23:23:41 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Binary%20Search/KokoEating.java. Output:
+
+2026.03.17 23:23:40 INFO  no build target found for E:\codedecode\dsa\Binary Search\KokoEating.java. Using fallback presentation compiler.
+2026.03.17 23:23:41 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Binary%20Search/KokoEating.java. Output:
+
+2026.03.17 23:23:44 INFO  no build target found for E:\codedecode\dsa\Binary Search\KokoEating.java. Using fallback presentation compiler.
+2026.03.17 23:23:45 INFO  no build target found for E:\codedecode\dsa\Binary Search\KokoEating.java. Using fallback presentation compiler.
+2026.03.17 23:23:45 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Binary%20Search/KokoEating.java. Output:
+
+2026.03.17 23:23:45 INFO  no build target found for E:\codedecode\dsa\Binary Search\KokoEating.java. Using fallback presentation compiler.
+2026.03.17 23:23:47 INFO  no build target found for E:\codedecode\dsa\Binary Search\KokoEating.java. Using fallback presentation compiler.
+2026.03.17 23:23:47 INFO  no build target found for E:\codedecode\dsa\Binary Search\KokoEating.java. Using fallback presentation compiler.
+2026.03.17 23:23:47 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Binary%20Search/KokoEating.java. Output:
+
+2026.03.17 23:23:48 INFO  no build target found for E:\codedecode\dsa\Binary Search\KokoEating.java. Using fallback presentation compiler.
+2026.03.17 23:23:48 INFO  no build target found for E:\codedecode\dsa\Binary Search\KokoEating.java. Using fallback presentation compiler.
+2026.03.17 23:23:49 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Binary%20Search/KokoEating.java. Output:
+
+2026.03.17 23:23:48 INFO  no build target found for E:\codedecode\dsa\Binary Search\KokoEating.java. Using fallback presentation compiler.
+2026.03.17 23:23:48 INFO  no build target found for E:\codedecode\dsa\Binary Search\KokoEating.java. Using fallback presentation compiler.
+2026.03.17 23:23:49 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Binary%20Search/KokoEating.java. Output:
+
+2026.03.17 23:23:51 INFO  no build target found for E:\codedecode\dsa\Binary Search\KokoEating.java. Using fallback presentation compiler.
+2026.03.17 23:23:51 INFO  no build target found for E:\codedecode\dsa\Binary Search\KokoEating.java. Using fallback presentation compiler.
+2026.03.17 23:23:51 INFO  no build target found for E:\codedecode\dsa\Binary Search\KokoEating.java. Using fallback presentation compiler.
+2026.03.17 23:23:52 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Binary%20Search/KokoEating.java. Output:
+
+2026.03.17 23:23:53 INFO  no build target found for E:\codedecode\dsa\Binary Search\KokoEating.java. Using fallback presentation compiler.
+2026.03.17 23:23:52 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Binary%20Search/KokoEating.java. Output:
+
+2026.03.17 23:23:54 INFO  no build target found for E:\codedecode\dsa\Binary Search\KokoEating.java. Using fallback presentation compiler.
+2026.03.17 23:23:54 WARN  no build target for: E:\codedecode\dsa\Binary Search\KokoEating.java
+2026.03.17 23:23:54 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Binary%20Search/KokoEating.java. Output:
+
+2026.03.17 23:23:59 INFO  no build target found for E:\codedecode\dsa\Binary Search\KokoEating.java. Using fallback presentation compiler.
+2026.03.17 23:24:01 INFO  no build target found for E:\codedecode\dsa\Binary Search\KokoEating.java. Using fallback presentation compiler.
+2026.03.17 23:24:01 INFO  no build target found for E:\codedecode\dsa\Binary Search\KokoEating.java. Using fallback presentation compiler.
+2026.03.17 23:24:01 INFO  no build target found for E:\codedecode\dsa\Binary Search\KokoEating.java. Using fallback presentation compiler.
+2026.03.17 23:24:01 INFO  no build target found for E:\codedecode\dsa\Binary Search\KokoEating.java. Using fallback presentation compiler.
+2026.03.17 23:24:01 INFO  no build target found for E:\codedecode\dsa\Binary Search\KokoEating.java. Using fallback presentation compiler.
+2026.03.17 23:24:02 INFO  no build target found for E:\codedecode\dsa\Binary Search\KokoEating.java. Using fallback presentation compiler.
+2026.03.17 23:24:05 INFO  no build target found for E:\codedecode\dsa\Binary Search\KokoEating.java. Using fallback presentation compiler.
+2026.03.17 23:24:06 INFO  no build target found for E:\codedecode\dsa\Binary Search\KokoEating.java. Using fallback presentation compiler.
+2026.03.17 23:24:19 INFO  no build target found for E:\codedecode\dsa\Binary Search\KokoEating.java. Using fallback presentation compiler.
+2026.03.17 23:24:21 INFO  no build target found for E:\codedecode\dsa\Binary Search\KokoEating.java. Using fallback presentation compiler.
+2026.03.17 23:24:21 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Binary%20Search/KokoEating.java. Output:
+
+2026.03.17 23:24:21 INFO  no build target found for E:\codedecode\dsa\Binary Search\KokoEating.java. Using fallback presentation compiler.
+2026.03.17 23:24:22 INFO  no build target found for E:\codedecode\dsa\Binary Search\KokoEating.java. Using fallback presentation compiler.
+2026.03.17 23:24:22 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Binary%20Search/KokoEating.java. Output:
+
+2026.03.17 23:24:22 INFO  no build target found for E:\codedecode\dsa\Binary Search\KokoEating.java. Using fallback presentation compiler.
+2026.03.17 23:24:22 INFO  no build target found for E:\codedecode\dsa\Binary Search\KokoEating.java. Using fallback presentation compiler.
+2026.03.17 23:24:22 INFO  no build target found for E:\codedecode\dsa\Binary Search\KokoEating.java. Using fallback presentation compiler.
+2026.03.17 23:24:22 INFO  no build target found for E:\codedecode\dsa\Binary Search\KokoEating.java. Using fallback presentation compiler.
+2026.03.17 23:24:22 INFO  no build target found for E:\codedecode\dsa\Binary Search\KokoEating.java. Using fallback presentation compiler.
+2026.03.17 23:24:23 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Binary%20Search/KokoEating.java. Output:
+
+2026.03.17 23:24:23 INFO  no build target found for E:\codedecode\dsa\Binary Search\KokoEating.java. Using fallback presentation compiler.
+2026.03.17 23:24:23 INFO  no build target found for E:\codedecode\dsa\Binary Search\KokoEating.java. Using fallback presentation compiler.
+2026.03.17 23:24:23 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Binary%20Search/KokoEating.java. Output:
+
+2026.03.17 23:24:23 INFO  no build target found for E:\codedecode\dsa\Binary Search\KokoEating.java. Using fallback presentation compiler.
+2026.03.17 23:24:24 INFO  no build target found for E:\codedecode\dsa\Binary Search\KokoEating.java. Using fallback presentation compiler.
+2026.03.17 23:24:24 INFO  no build target found for E:\codedecode\dsa\Binary Search\KokoEating.java. Using fallback presentation compiler.
+2026.03.17 23:24:24 INFO  no build target found for E:\codedecode\dsa\Binary Search\KokoEating.java. Using fallback presentation compiler.
+2026.03.17 23:24:24 INFO  no build target found for E:\codedecode\dsa\Binary Search\KokoEating.java. Using fallback presentation compiler.
+2026.03.17 23:24:24 INFO  no build target found for E:\codedecode\dsa\Binary Search\KokoEating.java. Using fallback presentation compiler.
+2026.03.17 23:24:24 INFO  no build target found for E:\codedecode\dsa\Binary Search\KokoEating.java. Using fallback presentation compiler.
+2026.03.17 23:24:24 INFO  no build target found for E:\codedecode\dsa\Binary Search\KokoEating.java. Using fallback presentation compiler.
+2026.03.17 23:24:25 INFO  no build target found for E:\codedecode\dsa\Binary Search\KokoEating.java. Using fallback presentation compiler.
+2026.03.17 23:24:25 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Binary%20Search/KokoEating.java. Output:
+
+2026.03.17 23:24:25 INFO  no build target found for E:\codedecode\dsa\Binary Search\KokoEating.java. Using fallback presentation compiler.
+2026.03.17 23:24:25 INFO  no build target found for E:\codedecode\dsa\Binary Search\KokoEating.java. Using fallback presentation compiler.
+2026.03.17 23:24:26 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Binary%20Search/KokoEating.java. Output:
+
+2026.03.17 23:24:27 INFO  no build target found for E:\codedecode\dsa\Binary Search\KokoEating.java. Using fallback presentation compiler.
+2026.03.17 23:24:27 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Binary%20Search/KokoEating.java. Output:
+
+2026.03.17 23:24:28 INFO  no build target found for E:\codedecode\dsa\Binary Search\KokoEating.java. Using fallback presentation compiler.
+2026.03.17 23:24:28 WARN  no build target for: E:\codedecode\dsa\Binary Search\KokoEating.java
+2026.03.17 23:24:29 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Binary%20Search/KokoEating.java. Output:
+
+2026.03.17 23:24:30 INFO  no build target found for E:\codedecode\dsa\Binary Search\KokoEating.java. Using fallback presentation compiler.
+2026.03.17 23:24:30 INFO  no build target found for E:\codedecode\dsa\Binary Search\KokoEating.java. Using fallback presentation compiler.
+2026.03.17 23:24:30 INFO  no build target found for E:\codedecode\dsa\Binary Search\KokoEating.java. Using fallback presentation compiler.
+2026.03.17 23:24:31 INFO  no build target found for E:\codedecode\dsa\Binary Search\KokoEating.java. Using fallback presentation compiler.
+2026.03.17 23:24:31 WARN  no build target for: E:\codedecode\dsa\Binary Search\KokoEating.java
+2026.03.17 23:24:32 INFO  no build target found for E:\codedecode\dsa\Binary Search\KokoEating.java. Using fallback presentation compiler.
+2026.03.17 23:24:36 WARN  no build target for: E:\codedecode\dsa\Binary Search\SearchRotated.java
+2026.03.17 23:24:36 INFO  no build target found for E:\codedecode\dsa\Binary Search\SearchRotated.java. Using fallback presentation compiler.
+2026.03.17 23:24:37 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Binary%20Search/SearchRotated.java. Output:
+
+2026.03.17 23:24:36 INFO  no build target found for E:\codedecode\dsa\Binary Search\SearchRotated.java. Using fallback presentation compiler.
+2026.03.17 23:24:38 INFO  no build target found for E:\codedecode\dsa\Binary Search\SearchRotated.java. Using fallback presentation compiler.
+2026.03.17 23:24:41 INFO  no build target found for E:\codedecode\dsa\Binary Search\SearchRotated.java. Using fallback presentation compiler.
+2026.03.17 23:24:41 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Binary%20Search/SearchRotated.java. Output:
+
+2026.03.17 23:24:43 INFO  no build target found for E:\codedecode\dsa\Binary Search\SearchRotated.java. Using fallback presentation compiler.
+2026.03.17 23:24:43 INFO  no build target found for E:\codedecode\dsa\Binary Search\SearchRotated.java. Using fallback presentation compiler.
+2026.03.17 23:24:43 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Binary%20Search/SearchRotated.java. Output:
+
+2026.03.17 23:24:43 INFO  no build target found for E:\codedecode\dsa\Binary Search\SearchRotated.java. Using fallback presentation compiler.
+2026.03.17 23:24:43 WARN  no build target for: E:\codedecode\dsa\Binary Search\SearchRotated.java
+2026.03.17 23:24:43 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Binary%20Search/SearchRotated.java. Output:
+
+2026.03.17 23:24:43 INFO  no build target found for E:\codedecode\dsa\Binary Search\SearchRotated.java. Using fallback presentation compiler.
+2026.03.17 23:24:44 INFO  no build target found for E:\codedecode\dsa\Binary Search\SearchRotated.java. Using fallback presentation compiler.
+2026.03.17 23:24:44 INFO  no build target found for E:\codedecode\dsa\Binary Search\SearchRotated.java. Using fallback presentation compiler.
+2026.03.17 23:24:44 INFO  no build target found for E:\codedecode\dsa\Binary Search\SearchRotated.java. Using fallback presentation compiler.
+2026.03.17 23:24:47 WARN  no build target for: E:\codedecode\dsa\Graphs\CourseSchedule.java
+2026.03.17 23:24:47 INFO  no build target found for E:\codedecode\dsa\Graphs\CourseSchedule.java. Using fallback presentation compiler.
+2026.03.17 23:24:47 INFO  no build target found for E:\codedecode\dsa\Graphs\CourseSchedule.java. Using fallback presentation compiler.
+2026.03.17 23:24:51 INFO  no build target found for E:\codedecode\dsa\Graphs\CourseSchedule.java. Using fallback presentation compiler.
+2026.03.17 23:24:53 INFO  no build target found for E:\codedecode\dsa\Graphs\CourseSchedule.java. Using fallback presentation compiler.
+2026.03.17 23:24:53 INFO  no build target found for E:\codedecode\dsa\Graphs\CourseSchedule.java. Using fallback presentation compiler.
+2026.03.17 23:24:54 INFO  no build target found for E:\codedecode\dsa\Graphs\CourseSchedule.java. Using fallback presentation compiler.
+2026.03.17 23:24:56 INFO  no build target found for E:\codedecode\dsa\Graphs\CourseSchedule.java. Using fallback presentation compiler.
+2026.03.17 23:24:56 INFO  no build target found for E:\codedecode\dsa\Graphs\CourseSchedule.java. Using fallback presentation compiler.
+2026.03.17 23:24:57 INFO  no build target found for E:\codedecode\dsa\Graphs\CourseSchedule.java. Using fallback presentation compiler.
+Mar 17, 2026 11:24:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 532
+Mar 17, 2026 11:24:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 536
+2026.03.17 23:25:00 INFO  no build target found for E:\codedecode\dsa\Graphs\CourseSchedule.java. Using fallback presentation compiler.
+2026.03.17 23:25:02 INFO  no build target found for E:\codedecode\dsa\Graphs\CourseSchedule.java. Using fallback presentation compiler.
+2026.03.17 23:25:03 INFO  no build target found for E:\codedecode\dsa\Graphs\CourseSchedule.java. Using fallback presentation compiler.
+2026.03.17 23:25:03 WARN  no build target for: E:\codedecode\dsa\Graphs\CourseSchedule.java
+2026.03.17 23:25:05 WARN  no build target for: E:\codedecode\dsa\Graphs\SinkTheIsland.java
+2026.03.17 23:25:06 INFO  no build target found for E:\codedecode\dsa\Graphs\SinkTheIsland.java. Using fallback presentation compiler.
+2026.03.17 23:25:10 INFO  no build target found for E:\codedecode\dsa\Graphs\SinkTheIsland.java. Using fallback presentation compiler.
+2026.03.17 23:25:10 INFO  no build target found for E:\codedecode\dsa\Graphs\SinkTheIsland.java. Using fallback presentation compiler.
+2026.03.17 23:25:11 INFO  no build target found for E:\codedecode\dsa\Graphs\SinkTheIsland.java. Using fallback presentation compiler.
+2026.03.17 23:25:13 INFO  no build target found for E:\codedecode\dsa\Graphs\SinkTheIsland.java. Using fallback presentation compiler.
+2026.03.17 23:25:13 INFO  no build target found for E:\codedecode\dsa\Graphs\SinkTheIsland.java. Using fallback presentation compiler.
+2026.03.17 23:25:13 INFO  no build target found for E:\codedecode\dsa\Graphs\SinkTheIsland.java. Using fallback presentation compiler.
+2026.03.17 23:25:13 WARN  no build target for: E:\codedecode\dsa\Graphs\SinkTheIsland.java
+2026.03.17 23:25:14 INFO  no build target found for E:\codedecode\dsa\Graphs\SinkTheIsland.java. Using fallback presentation compiler.
+2026.03.17 23:25:15 INFO  no build target found for E:\codedecode\dsa\Graphs\SinkTheIsland.java. Using fallback presentation compiler.
+2026.03.17 23:25:19 WARN  no build target for: E:\codedecode\dsa\Graphs\WordLadder.java
+2026.03.17 23:25:19 INFO  no build target found for E:\codedecode\dsa\Graphs\WordLadder.java. Using fallback presentation compiler.
+2026.03.17 23:25:19 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Graphs/WordLadder.java. Output:
+
+2026.03.17 23:25:19 INFO  no build target found for E:\codedecode\dsa\Graphs\WordLadder.java. Using fallback presentation compiler.
+2026.03.17 23:25:21 INFO  no build target found for E:\codedecode\dsa\Graphs\WordLadder.java. Using fallback presentation compiler.
+2026.03.17 23:25:22 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Graphs/WordLadder.java. Output:
+
+2026.03.17 23:25:24 INFO  no build target found for E:\codedecode\dsa\Graphs\WordLadder.java. Using fallback presentation compiler.
+2026.03.17 23:25:24 INFO  no build target found for E:\codedecode\dsa\Graphs\WordLadder.java. Using fallback presentation compiler.
+2026.03.17 23:25:24 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Graphs/WordLadder.java. Output:
+
+2026.03.17 23:25:24 INFO  no build target found for E:\codedecode\dsa\Graphs\WordLadder.java. Using fallback presentation compiler.
+2026.03.17 23:25:25 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Graphs/WordLadder.java. Output:
+
+2026.03.17 23:25:27 INFO  no build target found for E:\codedecode\dsa\Graphs\WordLadder.java. Using fallback presentation compiler.
+2026.03.17 23:25:27 INFO  no build target found for E:\codedecode\dsa\Graphs\WordLadder.java. Using fallback presentation compiler.
+2026.03.17 23:25:27 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Graphs/WordLadder.java. Output:
+
+2026.03.17 23:25:29 INFO  no build target found for E:\codedecode\dsa\Graphs\WordLadder.java. Using fallback presentation compiler.
+2026.03.17 23:25:29 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Graphs/WordLadder.java. Output:
+
+2026.03.17 23:25:32 INFO  no build target found for E:\codedecode\dsa\Graphs\WordLadder.java. Using fallback presentation compiler.
+2026.03.17 23:25:32 INFO  no build target found for E:\codedecode\dsa\Graphs\WordLadder.java. Using fallback presentation compiler.
+2026.03.17 23:25:32 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Graphs/WordLadder.java. Output:
+
+2026.03.17 23:25:35 INFO  no build target found for E:\codedecode\dsa\Graphs\WordLadder.java. Using fallback presentation compiler.
+2026.03.17 23:25:35 INFO  no build target found for E:\codedecode\dsa\Graphs\WordLadder.java. Using fallback presentation compiler.
+2026.03.17 23:25:36 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Graphs/WordLadder.java. Output:
+
+2026.03.17 23:25:37 INFO  no build target found for E:\codedecode\dsa\Graphs\WordLadder.java. Using fallback presentation compiler.
+2026.03.17 23:25:37 INFO  no build target found for E:\codedecode\dsa\Graphs\WordLadder.java. Using fallback presentation compiler.
+2026.03.17 23:25:37 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Graphs/WordLadder.java. Output:
+
+2026.03.17 23:25:39 INFO  no build target found for E:\codedecode\dsa\Graphs\WordLadder.java. Using fallback presentation compiler.
+2026.03.17 23:25:39 INFO  no build target found for E:\codedecode\dsa\Graphs\WordLadder.java. Using fallback presentation compiler.
+2026.03.17 23:25:40 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Graphs/WordLadder.java. Output:
+
+2026.03.17 23:25:40 INFO  no build target found for E:\codedecode\dsa\Graphs\WordLadder.java. Using fallback presentation compiler.
+2026.03.17 23:25:40 INFO  no build target found for E:\codedecode\dsa\Graphs\WordLadder.java. Using fallback presentation compiler.
+2026.03.17 23:25:41 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Graphs/WordLadder.java. Output:
+
+2026.03.17 23:25:40 INFO  no build target found for E:\codedecode\dsa\Graphs\WordLadder.java. Using fallback presentation compiler.
+2026.03.17 23:25:41 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Graphs/WordLadder.java. Output:
+
+2026.03.17 23:25:47 INFO  no build target found for E:\codedecode\dsa\Graphs\WordLadder.java. Using fallback presentation compiler.
+2026.03.17 23:25:47 INFO  no build target found for E:\codedecode\dsa\Graphs\WordLadder.java. Using fallback presentation compiler.
+2026.03.17 23:25:47 INFO  no build target found for E:\codedecode\dsa\Graphs\WordLadder.java. Using fallback presentation compiler.
+2026.03.17 23:25:47 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Graphs/WordLadder.java. Output:
+
+2026.03.17 23:25:47 INFO  no build target found for E:\codedecode\dsa\Graphs\WordLadder.java. Using fallback presentation compiler.
+2026.03.17 23:25:48 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Graphs/WordLadder.java. Output:
+
+2026.03.17 23:25:48 INFO  no build target found for E:\codedecode\dsa\Graphs\WordLadder.java. Using fallback presentation compiler.
+2026.03.17 23:25:48 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Graphs/WordLadder.java. Output:
+
+2026.03.17 23:25:48 INFO  no build target found for E:\codedecode\dsa\Graphs\WordLadder.java. Using fallback presentation compiler.
+2026.03.17 23:25:49 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Graphs/WordLadder.java. Output:
+
+2026.03.17 23:25:48 INFO  no build target found for E:\codedecode\dsa\Graphs\WordLadder.java. Using fallback presentation compiler.
+2026.03.17 23:25:49 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Graphs/WordLadder.java. Output:
+
+2026.03.17 23:25:51 INFO  no build target found for E:\codedecode\dsa\Graphs\WordLadder.java. Using fallback presentation compiler.
+2026.03.17 23:25:51 INFO  no build target found for E:\codedecode\dsa\Graphs\WordLadder.java. Using fallback presentation compiler.
+2026.03.17 23:25:51 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Graphs/WordLadder.java. Output:
+
+2026.03.17 23:25:53 INFO  no build target found for E:\codedecode\dsa\Graphs\WordLadder.java. Using fallback presentation compiler.
+2026.03.17 23:25:53 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Graphs/WordLadder.java. Output:
+
+2026.03.17 23:25:54 INFO  no build target found for E:\codedecode\dsa\Graphs\WordLadder.java. Using fallback presentation compiler.
+2026.03.17 23:25:54 INFO  no build target found for E:\codedecode\dsa\Graphs\WordLadder.java. Using fallback presentation compiler.
+2026.03.17 23:25:54 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Graphs/WordLadder.java. Output:
+
+2026.03.17 23:25:55 INFO  no build target found for E:\codedecode\dsa\Graphs\WordLadder.java. Using fallback presentation compiler.
+2026.03.17 23:25:55 INFO  no build target found for E:\codedecode\dsa\Graphs\WordLadder.java. Using fallback presentation compiler.
+2026.03.17 23:25:55 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Graphs/WordLadder.java. Output:
+
+2026.03.17 23:25:56 INFO  no build target found for E:\codedecode\dsa\Graphs\WordLadder.java. Using fallback presentation compiler.
+2026.03.17 23:25:56 INFO  no build target found for E:\codedecode\dsa\Graphs\WordLadder.java. Using fallback presentation compiler.
+2026.03.17 23:25:57 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Graphs/WordLadder.java. Output:
+
+2026.03.17 23:25:59 INFO  no build target found for E:\codedecode\dsa\Graphs\WordLadder.java. Using fallback presentation compiler.
+2026.03.17 23:25:59 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Graphs/WordLadder.java. Output:
+
+2026.03.17 23:25:59 INFO  no build target found for E:\codedecode\dsa\Graphs\WordLadder.java. Using fallback presentation compiler.
+2026.03.17 23:26:00 INFO  no build target found for E:\codedecode\dsa\Graphs\WordLadder.java. Using fallback presentation compiler.
+2026.03.17 23:26:00 INFO  no build target found for E:\codedecode\dsa\Graphs\WordLadder.java. Using fallback presentation compiler.
+2026.03.17 23:26:01 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Graphs/WordLadder.java. Output:
+
+2026.03.17 23:26:00 INFO  no build target found for E:\codedecode\dsa\Graphs\WordLadder.java. Using fallback presentation compiler.
+2026.03.17 23:26:01 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Graphs/WordLadder.java. Output:
+
+2026.03.17 23:26:02 INFO  no build target found for E:\codedecode\dsa\Graphs\WordLadder.java. Using fallback presentation compiler.
+2026.03.17 23:26:05 INFO  no build target found for E:\codedecode\dsa\Graphs\WordLadder.java. Using fallback presentation compiler.
+2026.03.17 23:26:05 INFO  no build target found for E:\codedecode\dsa\Graphs\WordLadder.java. Using fallback presentation compiler.
+2026.03.17 23:26:09 INFO  no build target found for E:\codedecode\dsa\Graphs\WordLadder.java. Using fallback presentation compiler.
+2026.03.17 23:26:10 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Graphs/WordLadder.java. Output:
+
+2026.03.17 23:26:10 INFO  no build target found for E:\codedecode\dsa\Graphs\WordLadder.java. Using fallback presentation compiler.
+2026.03.17 23:26:10 INFO  no build target found for E:\codedecode\dsa\Graphs\WordLadder.java. Using fallback presentation compiler.
+2026.03.17 23:26:11 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Graphs/WordLadder.java. Output:
+
+2026.03.17 23:26:10 INFO  no build target found for E:\codedecode\dsa\Graphs\WordLadder.java. Using fallback presentation compiler.
+2026.03.17 23:26:10 INFO  no build target found for E:\codedecode\dsa\Graphs\WordLadder.java. Using fallback presentation compiler.
+2026.03.17 23:26:10 INFO  no build target found for E:\codedecode\dsa\Graphs\WordLadder.java. Using fallback presentation compiler.
+Mar 17, 2026 11:26:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 842
+2026.03.17 23:26:12 INFO  no build target found for E:\codedecode\dsa\Graphs\WordLadder.java. Using fallback presentation compiler.
+2026.03.17 23:26:12 INFO  no build target found for E:\codedecode\dsa\Graphs\WordLadder.java. Using fallback presentation compiler.
+Mar 17, 2026 11:26:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 843
+2026.03.17 23:26:12 INFO  no build target found for E:\codedecode\dsa\Graphs\WordLadder.java. Using fallback presentation compiler.
+2026.03.17 23:26:12 INFO  no build target found for E:\codedecode\dsa\Graphs\WordLadder.java. Using fallback presentation compiler.
+Mar 17, 2026 11:26:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 844
+2026.03.17 23:26:12 INFO  no build target found for E:\codedecode\dsa\Graphs\WordLadder.java. Using fallback presentation compiler.
+Mar 17, 2026 11:26:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 845
+Mar 17, 2026 11:26:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 847
+2026.03.17 23:26:12 INFO  no build target found for E:\codedecode\dsa\Graphs\WordLadder.java. Using fallback presentation compiler.
+2026.03.17 23:26:13 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Graphs/WordLadder.java. Output:
+
+2026.03.17 23:26:13 INFO  no build target found for E:\codedecode\dsa\Graphs\WordLadder.java. Using fallback presentation compiler.
+2026.03.17 23:26:13 INFO  no build target found for E:\codedecode\dsa\Graphs\WordLadder.java. Using fallback presentation compiler.
+2026.03.17 23:26:14 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Graphs/WordLadder.java. Output:
+
+2026.03.17 23:26:15 INFO  no build target found for E:\codedecode\dsa\Graphs\WordLadder.java. Using fallback presentation compiler.
+2026.03.17 23:26:15 INFO  no build target found for E:\codedecode\dsa\Graphs\WordLadder.java. Using fallback presentation compiler.
+2026.03.17 23:26:17 INFO  no build target found for E:\codedecode\dsa\Graphs\WordLadder.java. Using fallback presentation compiler.
+2026.03.17 23:26:18 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Graphs/WordLadder.java. Output:
+
+2026.03.17 23:26:19 INFO  no build target found for E:\codedecode\dsa\Graphs\WordLadder.java. Using fallback presentation compiler.
+2026.03.17 23:26:19 INFO  no build target found for E:\codedecode\dsa\Graphs\WordLadder.java. Using fallback presentation compiler.
+2026.03.17 23:26:19 INFO  no build target found for E:\codedecode\dsa\Graphs\WordLadder.java. Using fallback presentation compiler.
+2026.03.17 23:26:19 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Graphs/WordLadder.java. Output:
+
+2026.03.17 23:26:19 INFO  no build target found for E:\codedecode\dsa\Graphs\WordLadder.java. Using fallback presentation compiler.
+2026.03.17 23:26:19 INFO  no build target found for E:\codedecode\dsa\Graphs\WordLadder.java. Using fallback presentation compiler.
+Mar 17, 2026 11:26:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 884
+2026.03.17 23:26:19 INFO  no build target found for E:\codedecode\dsa\Graphs\WordLadder.java. Using fallback presentation compiler.
+2026.03.17 23:26:19 INFO  no build target found for E:\codedecode\dsa\Graphs\WordLadder.java. Using fallback presentation compiler.
+Mar 17, 2026 11:26:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 885
+Mar 17, 2026 11:26:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 886
+2026.03.17 23:26:20 INFO  no build target found for E:\codedecode\dsa\Graphs\WordLadder.java. Using fallback presentation compiler.
+2026.03.17 23:26:20 INFO  no build target found for E:\codedecode\dsa\Graphs\WordLadder.java. Using fallback presentation compiler.
+Mar 17, 2026 11:26:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 887
+2026.03.17 23:26:20 INFO  no build target found for E:\codedecode\dsa\Graphs\WordLadder.java. Using fallback presentation compiler.
+Mar 17, 2026 11:26:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 888
+Mar 17, 2026 11:26:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 889
+2026.03.17 23:26:20 INFO  no build target found for E:\codedecode\dsa\Graphs\WordLadder.java. Using fallback presentation compiler.
+2026.03.17 23:26:20 INFO  no build target found for E:\codedecode\dsa\Graphs\WordLadder.java. Using fallback presentation compiler.
+2026.03.17 23:26:21 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Graphs/WordLadder.java. Output:
+
+2026.03.17 23:26:20 INFO  no build target found for E:\codedecode\dsa\Graphs\WordLadder.java. Using fallback presentation compiler.
+2026.03.17 23:26:22 INFO  no build target found for E:\codedecode\dsa\Graphs\WordLadder.java. Using fallback presentation compiler.
+2026.03.17 23:26:22 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Graphs/WordLadder.java. Output:
+
+2026.03.17 23:26:24 INFO  no build target found for E:\codedecode\dsa\Graphs\WordLadder.java. Using fallback presentation compiler.
+2026.03.17 23:26:24 WARN  no build target for: E:\codedecode\dsa\Graphs\WordLadder.java
+Mar 17, 2026 11:26:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 920
+Mar 17, 2026 11:26:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 921
+Mar 17, 2026 11:26:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 930
+2026.03.17 23:26:37 INFO  no build target found for E:\codedecode\dsa\Graphs\WordLadder.java. Using fallback presentation compiler.
+2026.03.17 23:26:37 INFO  no build target found for E:\codedecode\dsa\Graphs\WordLadder.java. Using fallback presentation compiler.
+2026.03.17 23:26:39 INFO  no build target found for E:\codedecode\dsa\Graphs\WordLadder.java. Using fallback presentation compiler.
+2026.03.17 23:26:39 INFO  no build target found for E:\codedecode\dsa\Graphs\WordLadder.java. Using fallback presentation compiler.
+2026.03.17 23:26:39 INFO  no build target found for E:\codedecode\dsa\Graphs\WordLadder.java. Using fallback presentation compiler.
+2026.03.17 23:26:41 INFO  no build target found for E:\codedecode\dsa\Graphs\WordLadder.java. Using fallback presentation compiler.
+2026.03.17 23:26:47 WARN  no build target for: E:\codedecode\dsa\Arrays & Hashing\TwoSum.java
+2026.03.17 23:26:47 INFO  no build target found for E:\codedecode\dsa\Arrays & Hashing\TwoSum.java. Using fallback presentation compiler.
+2026.03.17 23:26:47 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Arrays%20&%20Hashing/TwoSum.java. Output:
+
+2026.03.17 23:26:47 INFO  no build target found for E:\codedecode\dsa\Arrays & Hashing\TwoSum.java. Using fallback presentation compiler.
+2026.03.17 23:26:49 INFO  no build target found for E:\codedecode\dsa\Arrays & Hashing\TwoSum.java. Using fallback presentation compiler.
+2026.03.17 23:26:49 INFO  no build target found for E:\codedecode\dsa\Arrays & Hashing\TwoSum.java. Using fallback presentation compiler.
+2026.03.17 23:26:49 INFO  no build target found for E:\codedecode\dsa\Arrays & Hashing\TwoSum.java. Using fallback presentation compiler.
+2026.03.17 23:26:50 INFO  no build target found for E:\codedecode\dsa\Arrays & Hashing\TwoSum.java. Using fallback presentation compiler.
+2026.03.17 23:26:50 INFO  no build target found for E:\codedecode\dsa\Arrays & Hashing\TwoSum.java. Using fallback presentation compiler.
+2026.03.17 23:26:50 WARN  no build target for: E:\codedecode\dsa\Arrays & Hashing\TwoSum.java
+2026.03.17 23:26:50 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Arrays%20&%20Hashing/TwoSum.java. Output:
+
+2026.03.17 23:26:50 INFO  no build target found for E:\codedecode\dsa\Arrays & Hashing\TwoSum.java. Using fallback presentation compiler.
+2026.03.17 23:26:51 WARN  no build target for: E:\codedecode\dsa\Arrays & Hashing\TwoSum.java
+2026.03.17 23:26:53 INFO  no build target found for E:\codedecode\dsa\Arrays & Hashing\TwoSum.java. Using fallback presentation compiler.
+2026.03.17 23:26:53 INFO  no build target found for E:\codedecode\dsa\Arrays & Hashing\TwoSum.java. Using fallback presentation compiler.
+2026.03.17 23:26:53 INFO  no build target found for E:\codedecode\dsa\Arrays & Hashing\TwoSum.java. Using fallback presentation compiler.
+2026.03.17 23:26:56 INFO  no build target found for E:\codedecode\dsa\Arrays & Hashing\TwoSum.java. Using fallback presentation compiler.
+2026.03.17 23:27:01 WARN  no build target for: E:\codedecode\dsa\Heap_PQ\MedianFinder.java
+2026.03.17 23:27:01 INFO  no build target found for E:\codedecode\dsa\Heap_PQ\MedianFinder.java. Using fallback presentation compiler.
+2026.03.17 23:27:01 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Heap_PQ/MedianFinder.java. Output:
+
+2026.03.17 23:27:01 INFO  no build target found for E:\codedecode\dsa\Heap_PQ\MedianFinder.java. Using fallback presentation compiler.
+2026.03.17 23:27:16 INFO  no build target found for E:\codedecode\dsa\Heap_PQ\MedianFinder.java. Using fallback presentation compiler.
+2026.03.17 23:27:16 INFO  no build target found for E:\codedecode\dsa\Heap_PQ\MedianFinder.java. Using fallback presentation compiler.
+2026.03.17 23:27:17 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Heap_PQ/MedianFinder.java. Output:
+
+2026.03.17 23:27:16 INFO  no build target found for E:\codedecode\dsa\Heap_PQ\MedianFinder.java. Using fallback presentation compiler.
+2026.03.17 23:27:16 INFO  no build target found for E:\codedecode\dsa\Heap_PQ\MedianFinder.java. Using fallback presentation compiler.
+2026.03.17 23:27:16 INFO  no build target found for E:\codedecode\dsa\Heap_PQ\MedianFinder.java. Using fallback presentation compiler.
+2026.03.17 23:27:17 INFO  no build target found for E:\codedecode\dsa\Heap_PQ\MedianFinder.java. Using fallback presentation compiler.
+2026.03.17 23:27:17 INFO  no build target found for E:\codedecode\dsa\Heap_PQ\MedianFinder.java. Using fallback presentation compiler.
+2026.03.17 23:27:17 INFO  no build target found for E:\codedecode\dsa\Heap_PQ\MedianFinder.java. Using fallback presentation compiler.
+2026.03.17 23:27:17 INFO  no build target found for E:\codedecode\dsa\Heap_PQ\MedianFinder.java. Using fallback presentation compiler.
+2026.03.17 23:27:17 INFO  no build target found for E:\codedecode\dsa\Heap_PQ\MedianFinder.java. Using fallback presentation compiler.
+2026.03.17 23:27:17 INFO  no build target found for E:\codedecode\dsa\Heap_PQ\MedianFinder.java. Using fallback presentation compiler.
+2026.03.17 23:27:17 INFO  no build target found for E:\codedecode\dsa\Heap_PQ\MedianFinder.java. Using fallback presentation compiler.
+2026.03.17 23:27:17 INFO  no build target found for E:\codedecode\dsa\Heap_PQ\MedianFinder.java. Using fallback presentation compiler.
+2026.03.17 23:27:18 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Heap_PQ/MedianFinder.java. Output:
+
+2026.03.17 23:27:19 INFO  no build target found for E:\codedecode\dsa\Heap_PQ\MedianFinder.java. Using fallback presentation compiler.
+2026.03.17 23:27:20 INFO  no build target found for E:\codedecode\dsa\Heap_PQ\MedianFinder.java. Using fallback presentation compiler.
+2026.03.17 23:27:20 INFO  no build target found for E:\codedecode\dsa\Heap_PQ\MedianFinder.java. Using fallback presentation compiler.
+2026.03.17 23:27:20 INFO  no build target found for E:\codedecode\dsa\Heap_PQ\MedianFinder.java. Using fallback presentation compiler.
+2026.03.17 23:27:21 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Heap_PQ/MedianFinder.java. Output:
+
+2026.03.17 23:27:22 INFO  no build target found for E:\codedecode\dsa\Heap_PQ\MedianFinder.java. Using fallback presentation compiler.
+2026.03.17 23:27:24 INFO  no build target found for E:\codedecode\dsa\Heap_PQ\MedianFinder.java. Using fallback presentation compiler.
+2026.03.17 23:27:26 INFO  no build target found for E:\codedecode\dsa\Heap_PQ\MedianFinder.java. Using fallback presentation compiler.
+2026.03.17 23:27:26 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Heap_PQ/MedianFinder.java. Output:
+
+2026.03.17 23:27:28 INFO  no build target found for E:\codedecode\dsa\Heap_PQ\MedianFinder.java. Using fallback presentation compiler.
+2026.03.17 23:27:28 INFO  no build target found for E:\codedecode\dsa\Heap_PQ\MedianFinder.java. Using fallback presentation compiler.
+2026.03.17 23:27:29 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Heap_PQ/MedianFinder.java. Output:
+
+2026.03.17 23:27:32 INFO  no build target found for E:\codedecode\dsa\Heap_PQ\MedianFinder.java. Using fallback presentation compiler.
+2026.03.17 23:27:32 INFO  no build target found for E:\codedecode\dsa\Heap_PQ\MedianFinder.java. Using fallback presentation compiler.
+2026.03.17 23:27:33 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Heap_PQ/MedianFinder.java. Output:
+
+2026.03.17 23:27:33 INFO  no build target found for E:\codedecode\dsa\Heap_PQ\MedianFinder.java. Using fallback presentation compiler.
+2026.03.17 23:27:33 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Heap_PQ/MedianFinder.java. Output:
+
+2026.03.17 23:27:34 INFO  no build target found for E:\codedecode\dsa\Heap_PQ\MedianFinder.java. Using fallback presentation compiler.
+2026.03.17 23:27:34 INFO  no build target found for E:\codedecode\dsa\Heap_PQ\MedianFinder.java. Using fallback presentation compiler.
+2026.03.17 23:27:35 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Heap_PQ/MedianFinder.java. Output:
+
+2026.03.17 23:27:36 INFO  no build target found for E:\codedecode\dsa\Heap_PQ\MedianFinder.java. Using fallback presentation compiler.
+2026.03.17 23:27:37 INFO  no build target found for E:\codedecode\dsa\Heap_PQ\MedianFinder.java. Using fallback presentation compiler.
+2026.03.17 23:27:37 WARN  no build target for: E:\codedecode\dsa\Heap_PQ\MedianFinder.java
+2026.03.17 23:27:37 INFO  no build target found for E:\codedecode\dsa\Heap_PQ\MedianFinder.java. Using fallback presentation compiler.
+2026.03.17 23:27:39 WARN  no build target for: E:\codedecode\dsa\Heap_PQ\KthLargest.java
+2026.03.17 23:27:39 INFO  no build target found for E:\codedecode\dsa\Heap_PQ\KthLargest.java. Using fallback presentation compiler.
+2026.03.17 23:27:39 INFO  no build target found for E:\codedecode\dsa\Heap_PQ\KthLargest.java. Using fallback presentation compiler.
+2026.03.17 23:27:39 INFO  no build target found for E:\codedecode\dsa\Heap_PQ\KthLargest.java. Using fallback presentation compiler.
+2026.03.17 23:27:53 INFO  no build target found for E:\codedecode\dsa\Heap_PQ\KthLargest.java. Using fallback presentation compiler.
+2026.03.17 23:27:53 WARN  no build target for: E:\codedecode\dsa\Heap_PQ\KthLargest.java
+2026.03.17 23:27:56 INFO  no build target found for E:\codedecode\dsa\Heap_PQ\KthLargest.java. Using fallback presentation compiler.
+2026.03.17 23:27:56 INFO  no build target found for E:\codedecode\dsa\Heap_PQ\KthLargest.java. Using fallback presentation compiler.
+2026.03.17 23:27:58 INFO  no build target found for E:\codedecode\dsa\Heap_PQ\KthLargest.java. Using fallback presentation compiler.
+2026.03.17 23:27:58 INFO  no build target found for E:\codedecode\dsa\Heap_PQ\KthLargest.java. Using fallback presentation compiler.
+2026.03.17 23:27:59 INFO  no build target found for E:\codedecode\dsa\Heap_PQ\KthLargest.java. Using fallback presentation compiler.
+2026.03.17 23:27:59 INFO  no build target found for E:\codedecode\dsa\Heap_PQ\KthLargest.java. Using fallback presentation compiler.
+2026.03.17 23:27:59 INFO  no build target found for E:\codedecode\dsa\Heap_PQ\KthLargest.java. Using fallback presentation compiler.
+2026.03.17 23:28:00 WARN  no build target for: E:\codedecode\dsa\Heap_PQ\KthLargest.java
+2026.03.17 23:28:00 WARN  no build target for: E:\codedecode\dsa\Heap_PQ\KthLargest.java
+2026.03.17 23:28:00 INFO  no build target found for E:\codedecode\dsa\Heap_PQ\KthLargest.java. Using fallback presentation compiler.
+2026.03.17 23:28:03 WARN  no build target for: E:\codedecode\dsa\Linked List\LRUCache.java
+2026.03.17 23:28:03 INFO  no build target found for E:\codedecode\dsa\Linked List\LRUCache.java. Using fallback presentation compiler.
+2026.03.17 23:28:03 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Linked%20List/LRUCache.java. Output:
+
+2026.03.17 23:28:03 INFO  no build target found for E:\codedecode\dsa\Linked List\LRUCache.java. Using fallback presentation compiler.
+2026.03.17 23:28:09 INFO  no build target found for E:\codedecode\dsa\Linked List\LRUCache.java. Using fallback presentation compiler.
+2026.03.17 23:28:09 INFO  no build target found for E:\codedecode\dsa\Linked List\LRUCache.java. Using fallback presentation compiler.
+2026.03.17 23:28:09 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Linked%20List/LRUCache.java. Output:
+
+2026.03.17 23:28:09 INFO  no build target found for E:\codedecode\dsa\Linked List\LRUCache.java. Using fallback presentation compiler.
+2026.03.17 23:28:09 INFO  no build target found for E:\codedecode\dsa\Linked List\LRUCache.java. Using fallback presentation compiler.
+Mar 17, 2026 11:28:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1221
+2026.03.17 23:28:09 INFO  no build target found for E:\codedecode\dsa\Linked List\LRUCache.java. Using fallback presentation compiler.
+Mar 17, 2026 11:28:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1222
+2026.03.17 23:28:09 INFO  no build target found for E:\codedecode\dsa\Linked List\LRUCache.java. Using fallback presentation compiler.
+Mar 17, 2026 11:28:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1223
+2026.03.17 23:28:10 INFO  no build target found for E:\codedecode\dsa\Linked List\LRUCache.java. Using fallback presentation compiler.
+Mar 17, 2026 11:28:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1224
+2026.03.17 23:28:10 INFO  no build target found for E:\codedecode\dsa\Linked List\LRUCache.java. Using fallback presentation compiler.
+Mar 17, 2026 11:28:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1225
+2026.03.17 23:28:10 INFO  no build target found for E:\codedecode\dsa\Linked List\LRUCache.java. Using fallback presentation compiler.
+Mar 17, 2026 11:28:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1226
+2026.03.17 23:28:10 INFO  no build target found for E:\codedecode\dsa\Linked List\LRUCache.java. Using fallback presentation compiler.
+Mar 17, 2026 11:28:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1227
+2026.03.17 23:28:10 INFO  no build target found for E:\codedecode\dsa\Linked List\LRUCache.java. Using fallback presentation compiler.
+Mar 17, 2026 11:28:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1228
+2026.03.17 23:28:10 INFO  no build target found for E:\codedecode\dsa\Linked List\LRUCache.java. Using fallback presentation compiler.
+Mar 17, 2026 11:28:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1229
+2026.03.17 23:28:10 INFO  no build target found for E:\codedecode\dsa\Linked List\LRUCache.java. Using fallback presentation compiler.
+Mar 17, 2026 11:28:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1230
+2026.03.17 23:28:11 INFO  no build target found for E:\codedecode\dsa\Linked List\LRUCache.java. Using fallback presentation compiler.
+2026.03.17 23:28:11 INFO  no build target found for E:\codedecode\dsa\Linked List\LRUCache.java. Using fallback presentation compiler.
+2026.03.17 23:28:11 INFO  no build target found for E:\codedecode\dsa\Linked List\LRUCache.java. Using fallback presentation compiler.
+Mar 17, 2026 11:28:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1232
+Mar 17, 2026 11:28:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1233
+Mar 17, 2026 11:28:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1234
+Mar 17, 2026 11:28:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1235
+Mar 17, 2026 11:28:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1236
+2026.03.17 23:28:11 INFO  no build target found for E:\codedecode\dsa\Linked List\LRUCache.java. Using fallback presentation compiler.
+2026.03.17 23:28:11 INFO  no build target found for E:\codedecode\dsa\Linked List\LRUCache.java. Using fallback presentation compiler.
+Mar 17, 2026 11:28:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1237
+2026.03.17 23:28:12 INFO  no build target found for E:\codedecode\dsa\Linked List\LRUCache.java. Using fallback presentation compiler.
+Mar 17, 2026 11:28:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1238
+2026.03.17 23:28:12 INFO  no build target found for E:\codedecode\dsa\Linked List\LRUCache.java. Using fallback presentation compiler.
+Mar 17, 2026 11:28:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1239
+2026.03.17 23:28:12 INFO  no build target found for E:\codedecode\dsa\Linked List\LRUCache.java. Using fallback presentation compiler.
+Mar 17, 2026 11:28:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1240
+2026.03.17 23:28:12 INFO  no build target found for E:\codedecode\dsa\Linked List\LRUCache.java. Using fallback presentation compiler.
+Mar 17, 2026 11:28:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1241
+2026.03.17 23:28:12 INFO  no build target found for E:\codedecode\dsa\Linked List\LRUCache.java. Using fallback presentation compiler.
+Mar 17, 2026 11:28:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1242
+2026.03.17 23:28:13 INFO  no build target found for E:\codedecode\dsa\Linked List\LRUCache.java. Using fallback presentation compiler.
+Mar 17, 2026 11:28:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1243
+2026.03.17 23:28:13 INFO  no build target found for E:\codedecode\dsa\Linked List\LRUCache.java. Using fallback presentation compiler.
+Mar 17, 2026 11:28:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1244
+2026.03.17 23:28:13 INFO  no build target found for E:\codedecode\dsa\Linked List\LRUCache.java. Using fallback presentation compiler.
+Mar 17, 2026 11:28:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1245
+2026.03.17 23:28:13 INFO  no build target found for E:\codedecode\dsa\Linked List\LRUCache.java. Using fallback presentation compiler.
+Mar 17, 2026 11:28:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1246
+2026.03.17 23:28:13 INFO  no build target found for E:\codedecode\dsa\Linked List\LRUCache.java. Using fallback presentation compiler.
+Mar 17, 2026 11:28:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1247
+2026.03.17 23:28:14 INFO  no build target found for E:\codedecode\dsa\Linked List\LRUCache.java. Using fallback presentation compiler.
+Mar 17, 2026 11:28:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1248
+2026.03.17 23:28:14 INFO  no build target found for E:\codedecode\dsa\Linked List\LRUCache.java. Using fallback presentation compiler.
+Mar 17, 2026 11:28:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1249
+2026.03.17 23:28:14 INFO  no build target found for E:\codedecode\dsa\Linked List\LRUCache.java. Using fallback presentation compiler.
+Mar 17, 2026 11:28:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1250
+2026.03.17 23:28:14 INFO  no build target found for E:\codedecode\dsa\Linked List\LRUCache.java. Using fallback presentation compiler.
+Mar 17, 2026 11:28:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1251
+2026.03.17 23:28:14 INFO  no build target found for E:\codedecode\dsa\Linked List\LRUCache.java. Using fallback presentation compiler.
+Mar 17, 2026 11:28:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1252
+2026.03.17 23:28:14 INFO  no build target found for E:\codedecode\dsa\Linked List\LRUCache.java. Using fallback presentation compiler.
+Mar 17, 2026 11:28:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1253
+2026.03.17 23:28:15 INFO  no build target found for E:\codedecode\dsa\Linked List\LRUCache.java. Using fallback presentation compiler.
+Mar 17, 2026 11:28:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1254
+2026.03.17 23:28:15 INFO  no build target found for E:\codedecode\dsa\Linked List\LRUCache.java. Using fallback presentation compiler.
+Mar 17, 2026 11:28:16 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1255
+2026.03.17 23:28:15 INFO  no build target found for E:\codedecode\dsa\Linked List\LRUCache.java. Using fallback presentation compiler.
+Mar 17, 2026 11:28:16 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1256
+2026.03.17 23:28:15 INFO  no build target found for E:\codedecode\dsa\Linked List\LRUCache.java. Using fallback presentation compiler.
+Mar 17, 2026 11:28:16 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1257
+2026.03.17 23:28:15 INFO  no build target found for E:\codedecode\dsa\Linked List\LRUCache.java. Using fallback presentation compiler.
+Mar 17, 2026 11:28:16 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1258
+2026.03.17 23:28:16 INFO  no build target found for E:\codedecode\dsa\Linked List\LRUCache.java. Using fallback presentation compiler.
+Mar 17, 2026 11:28:16 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1259
+2026.03.17 23:28:16 INFO  no build target found for E:\codedecode\dsa\Linked List\LRUCache.java. Using fallback presentation compiler.
+Mar 17, 2026 11:28:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1260
+2026.03.17 23:28:16 INFO  no build target found for E:\codedecode\dsa\Linked List\LRUCache.java. Using fallback presentation compiler.
+Mar 17, 2026 11:28:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1261
+2026.03.17 23:28:16 INFO  no build target found for E:\codedecode\dsa\Linked List\LRUCache.java. Using fallback presentation compiler.
+Mar 17, 2026 11:28:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1262
+2026.03.17 23:28:16 INFO  no build target found for E:\codedecode\dsa\Linked List\LRUCache.java. Using fallback presentation compiler.
+Mar 17, 2026 11:28:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1263
+2026.03.17 23:28:16 INFO  no build target found for E:\codedecode\dsa\Linked List\LRUCache.java. Using fallback presentation compiler.
+2026.03.17 23:28:16 INFO  no build target found for E:\codedecode\dsa\Linked List\LRUCache.java. Using fallback presentation compiler.
+Mar 17, 2026 11:28:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1264
+Mar 17, 2026 11:28:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1266
+Mar 17, 2026 11:28:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1267
+Mar 17, 2026 11:28:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1268
+Mar 17, 2026 11:28:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1269
+Mar 17, 2026 11:28:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1270
+Mar 17, 2026 11:28:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1271
+Mar 17, 2026 11:28:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1273
+Mar 17, 2026 11:28:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1275
+Mar 17, 2026 11:28:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1276
+Mar 17, 2026 11:28:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1277
+Mar 17, 2026 11:28:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1278
+Mar 17, 2026 11:28:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1279
+Mar 17, 2026 11:28:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1280
+2026.03.17 23:28:16 INFO  no build target found for E:\codedecode\dsa\Linked List\LRUCache.java. Using fallback presentation compiler.
+2026.03.17 23:28:16 INFO  no build target found for E:\codedecode\dsa\Linked List\LRUCache.java. Using fallback presentation compiler.
+2026.03.17 23:28:17 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Linked%20List/LRUCache.java. Output:
+
+2026.03.17 23:28:19 INFO  no build target found for E:\codedecode\dsa\Linked List\LRUCache.java. Using fallback presentation compiler.
+2026.03.17 23:28:19 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Linked%20List/LRUCache.java. Output:
+
+2026.03.17 23:28:20 INFO  no build target found for E:\codedecode\dsa\Linked List\LRUCache.java. Using fallback presentation compiler.
+2026.03.17 23:28:20 INFO  no build target found for E:\codedecode\dsa\Linked List\LRUCache.java. Using fallback presentation compiler.
+2026.03.17 23:28:23 INFO  no build target found for E:\codedecode\dsa\Linked List\LRUCache.java. Using fallback presentation compiler.
+Mar 17, 2026 11:28:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1312
+Mar 17, 2026 11:28:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1315
+Mar 17, 2026 11:28:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1316
+Mar 17, 2026 11:28:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1317
+Mar 17, 2026 11:28:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1318
+Mar 17, 2026 11:28:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1319
+Mar 17, 2026 11:28:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1320
+Mar 17, 2026 11:28:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1321
+Mar 17, 2026 11:28:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1322
+2026.03.17 23:28:28 INFO  no build target found for E:\codedecode\dsa\Linked List\LRUCache.java. Using fallback presentation compiler.
+2026.03.17 23:28:32 INFO  no build target found for E:\codedecode\dsa\Linked List\LRUCache.java. Using fallback presentation compiler.
+2026.03.17 23:28:32 INFO  no build target found for E:\codedecode\dsa\Linked List\LRUCache.java. Using fallback presentation compiler.
+2026.03.17 23:28:32 INFO  no build target found for E:\codedecode\dsa\Linked List\LRUCache.java. Using fallback presentation compiler.
+2026.03.17 23:28:33 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Linked%20List/LRUCache.java. Output:
+
+2026.03.17 23:28:35 INFO  no build target found for E:\codedecode\dsa\Linked List\LRUCache.java. Using fallback presentation compiler.
+2026.03.17 23:28:35 INFO  no build target found for E:\codedecode\dsa\Linked List\LRUCache.java. Using fallback presentation compiler.
+2026.03.17 23:28:35 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Linked%20List/LRUCache.java. Output:
+
+2026.03.17 23:28:36 INFO  no build target found for E:\codedecode\dsa\Linked List\LRUCache.java. Using fallback presentation compiler.
+2026.03.17 23:28:36 WARN  no build target for: E:\codedecode\dsa\Linked List\LRUCache.java
+2026.03.17 23:28:36 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Linked%20List/LRUCache.java. Output:
+
+2026.03.17 23:28:36 INFO  no build target found for E:\codedecode\dsa\Linked List\LRUCache.java. Using fallback presentation compiler.
+2026.03.17 23:28:36 INFO  no build target found for E:\codedecode\dsa\Linked List\LRUCache.java. Using fallback presentation compiler.
+2026.03.17 23:28:37 WARN  no build target for: E:\codedecode\dsa\Linked List\LRUCache.java
+2026.03.17 23:28:37 WARN  no build target for: E:\codedecode\dsa\Linked List\LRUCache.java
+2026.03.17 23:28:39 WARN  no build target for: E:\codedecode\dsa\Linked List\ReverseList.java
+2026.03.17 23:28:39 INFO  no build target found for E:\codedecode\dsa\Linked List\ReverseList.java. Using fallback presentation compiler.
+2026.03.17 23:28:39 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Linked%20List/ReverseList.java. Output:
+
+2026.03.17 23:28:39 INFO  no build target found for E:\codedecode\dsa\Linked List\ReverseList.java. Using fallback presentation compiler.
+Mar 17, 2026 11:28:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1365
+2026.03.17 23:28:39 INFO  no build target found for E:\codedecode\dsa\Linked List\ReverseList.java. Using fallback presentation compiler.
+2026.03.17 23:28:44 INFO  no build target found for E:\codedecode\dsa\Linked List\ReverseList.java. Using fallback presentation compiler.
+2026.03.17 23:28:44 INFO  no build target found for E:\codedecode\dsa\Linked List\ReverseList.java. Using fallback presentation compiler.
+2026.03.17 23:28:45 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Linked%20List/ReverseList.java. Output:
+
+2026.03.17 23:28:44 INFO  no build target found for E:\codedecode\dsa\Linked List\ReverseList.java. Using fallback presentation compiler.
+2026.03.17 23:28:44 INFO  no build target found for E:\codedecode\dsa\Linked List\ReverseList.java. Using fallback presentation compiler.
+2026.03.17 23:28:45 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Linked%20List/ReverseList.java. Output:
+
+2026.03.17 23:28:46 INFO  no build target found for E:\codedecode\dsa\Linked List\ReverseList.java. Using fallback presentation compiler.
+2026.03.17 23:28:46 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Linked%20List/ReverseList.java. Output:
+
+2026.03.17 23:28:48 INFO  no build target found for E:\codedecode\dsa\Linked List\ReverseList.java. Using fallback presentation compiler.
+2026.03.17 23:28:48 INFO  no build target found for E:\codedecode\dsa\Linked List\ReverseList.java. Using fallback presentation compiler.
+2026.03.17 23:28:48 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Linked%20List/ReverseList.java. Output:
+
+2026.03.17 23:28:48 INFO  no build target found for E:\codedecode\dsa\Linked List\ReverseList.java. Using fallback presentation compiler.
+2026.03.17 23:28:49 INFO  no build target found for E:\codedecode\dsa\Linked List\ReverseList.java. Using fallback presentation compiler.
+2026.03.17 23:28:49 INFO  no build target found for E:\codedecode\dsa\Linked List\ReverseList.java. Using fallback presentation compiler.
+2026.03.17 23:28:50 WARN  no build target for: E:\codedecode\dsa\Linked List\ReverseList.java
+2026.03.17 23:28:50 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Linked%20List/ReverseList.java. Output:
+
+2026.03.17 23:28:49 INFO  no build target found for E:\codedecode\dsa\Linked List\ReverseList.java. Using fallback presentation compiler.
+2026.03.17 23:28:54 WARN  no build target for: E:\codedecode\dsa\Sliding Window\LongestSubstring.java
+2026.03.17 23:28:54 INFO  no build target found for E:\codedecode\dsa\Sliding Window\LongestSubstring.java. Using fallback presentation compiler.
+2026.03.17 23:28:54 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Sliding%20Window/LongestSubstring.java. Output:
+
+2026.03.17 23:28:54 INFO  no build target found for E:\codedecode\dsa\Sliding Window\LongestSubstring.java. Using fallback presentation compiler.
+2026.03.17 23:28:56 INFO  no build target found for E:\codedecode\dsa\Sliding Window\LongestSubstring.java. Using fallback presentation compiler.
+2026.03.17 23:28:56 INFO  no build target found for E:\codedecode\dsa\Sliding Window\LongestSubstring.java. Using fallback presentation compiler.
+2026.03.17 23:28:56 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Sliding%20Window/LongestSubstring.java. Output:
+
+2026.03.17 23:28:56 INFO  no build target found for E:\codedecode\dsa\Sliding Window\LongestSubstring.java. Using fallback presentation compiler.
+2026.03.17 23:28:57 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Sliding%20Window/LongestSubstring.java. Output:
+
+2026.03.17 23:29:00 INFO  no build target found for E:\codedecode\dsa\Sliding Window\LongestSubstring.java. Using fallback presentation compiler.
+2026.03.17 23:29:00 INFO  no build target found for E:\codedecode\dsa\Sliding Window\LongestSubstring.java. Using fallback presentation compiler.
+2026.03.17 23:29:01 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Sliding%20Window/LongestSubstring.java. Output:
+
+2026.03.17 23:29:00 INFO  no build target found for E:\codedecode\dsa\Sliding Window\LongestSubstring.java. Using fallback presentation compiler.
+2026.03.17 23:29:01 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Sliding%20Window/LongestSubstring.java. Output:
+
+2026.03.17 23:29:04 INFO  no build target found for E:\codedecode\dsa\Sliding Window\LongestSubstring.java. Using fallback presentation compiler.
+2026.03.17 23:29:04 INFO  no build target found for E:\codedecode\dsa\Sliding Window\LongestSubstring.java. Using fallback presentation compiler.
+2026.03.17 23:29:04 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Sliding%20Window/LongestSubstring.java. Output:
+
+2026.03.17 23:29:05 INFO  no build target found for E:\codedecode\dsa\Sliding Window\LongestSubstring.java. Using fallback presentation compiler.
+2026.03.17 23:29:06 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Sliding%20Window/LongestSubstring.java. Output:
+
+2026.03.17 23:29:07 INFO  no build target found for E:\codedecode\dsa\Sliding Window\LongestSubstring.java. Using fallback presentation compiler.
+2026.03.17 23:29:07 INFO  no build target found for E:\codedecode\dsa\Sliding Window\LongestSubstring.java. Using fallback presentation compiler.
+2026.03.17 23:29:07 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Sliding%20Window/LongestSubstring.java. Output:
+
+2026.03.17 23:29:08 INFO  no build target found for E:\codedecode\dsa\Sliding Window\LongestSubstring.java. Using fallback presentation compiler.
+2026.03.17 23:29:08 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Sliding%20Window/LongestSubstring.java. Output:
+
+2026.03.17 23:29:09 INFO  no build target found for E:\codedecode\dsa\Sliding Window\LongestSubstring.java. Using fallback presentation compiler.
+2026.03.17 23:29:09 INFO  no build target found for E:\codedecode\dsa\Sliding Window\LongestSubstring.java. Using fallback presentation compiler.
+2026.03.17 23:29:09 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Sliding%20Window/LongestSubstring.java. Output:
+
+2026.03.17 23:29:09 INFO  no build target found for E:\codedecode\dsa\Sliding Window\LongestSubstring.java. Using fallback presentation compiler.
+2026.03.17 23:29:10 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Sliding%20Window/LongestSubstring.java. Output:
+
+2026.03.17 23:29:11 INFO  no build target found for E:\codedecode\dsa\Sliding Window\LongestSubstring.java. Using fallback presentation compiler.
+2026.03.17 23:29:11 INFO  no build target found for E:\codedecode\dsa\Sliding Window\LongestSubstring.java. Using fallback presentation compiler.
+2026.03.17 23:29:11 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Sliding%20Window/LongestSubstring.java. Output:
+
+2026.03.17 23:29:12 INFO  no build target found for E:\codedecode\dsa\Sliding Window\LongestSubstring.java. Using fallback presentation compiler.
+2026.03.17 23:29:12 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Sliding%20Window/LongestSubstring.java. Output:
+
+2026.03.17 23:29:15 INFO  no build target found for E:\codedecode\dsa\Sliding Window\LongestSubstring.java. Using fallback presentation compiler.
+2026.03.17 23:29:15 INFO  no build target found for E:\codedecode\dsa\Sliding Window\LongestSubstring.java. Using fallback presentation compiler.
+2026.03.17 23:29:16 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Sliding%20Window/LongestSubstring.java. Output:
+
+2026.03.17 23:29:19 INFO  no build target found for E:\codedecode\dsa\Sliding Window\LongestSubstring.java. Using fallback presentation compiler.
+2026.03.17 23:29:19 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Sliding%20Window/LongestSubstring.java. Output:
+
+2026.03.17 23:29:23 INFO  no build target found for E:\codedecode\dsa\Sliding Window\LongestSubstring.java. Using fallback presentation compiler.
+2026.03.17 23:29:23 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Sliding%20Window/LongestSubstring.java. Output:
+
+2026.03.17 23:29:23 INFO  no build target found for E:\codedecode\dsa\Sliding Window\LongestSubstring.java. Using fallback presentation compiler.
+2026.03.17 23:29:24 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Sliding%20Window/LongestSubstring.java. Output:
+
+2026.03.17 23:29:23 INFO  no build target found for E:\codedecode\dsa\Sliding Window\LongestSubstring.java. Using fallback presentation compiler.
+2026.03.17 23:29:24 INFO  no build target found for E:\codedecode\dsa\Sliding Window\LongestSubstring.java. Using fallback presentation compiler.
+2026.03.17 23:29:24 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Sliding%20Window/LongestSubstring.java. Output:
+
+2026.03.17 23:29:24 INFO  no build target found for E:\codedecode\dsa\Sliding Window\LongestSubstring.java. Using fallback presentation compiler.
+2026.03.17 23:29:25 WARN  no build target for: E:\codedecode\dsa\Sliding Window\LongestSubstring.java
+2026.03.17 23:29:25 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Sliding%20Window/LongestSubstring.java. Output:
+
+2026.03.17 23:29:24 INFO  no build target found for E:\codedecode\dsa\Sliding Window\LongestSubstring.java. Using fallback presentation compiler.
+2026.03.17 23:29:27 WARN  no build target for: E:\codedecode\dsa\Sliding Window\MinWindowSubstr.java
+2026.03.17 23:29:27 INFO  no build target found for E:\codedecode\dsa\Sliding Window\MinWindowSubstr.java. Using fallback presentation compiler.
+Mar 17, 2026 11:29:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1558
+2026.03.17 23:29:27 INFO  no build target found for E:\codedecode\dsa\Sliding Window\MinWindowSubstr.java. Using fallback presentation compiler.
+2026.03.17 23:29:27 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Sliding%20Window/MinWindowSubstr.java. Output:
+
+2026.03.17 23:29:33 INFO  no build target found for E:\codedecode\dsa\Sliding Window\MinWindowSubstr.java. Using fallback presentation compiler.
+2026.03.17 23:29:33 INFO  no build target found for E:\codedecode\dsa\Sliding Window\MinWindowSubstr.java. Using fallback presentation compiler.
+2026.03.17 23:29:33 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Sliding%20Window/MinWindowSubstr.java. Output:
+
+2026.03.17 23:29:33 INFO  no build target found for E:\codedecode\dsa\Sliding Window\MinWindowSubstr.java. Using fallback presentation compiler.
+Mar 17, 2026 11:29:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1576
+2026.03.17 23:29:33 INFO  no build target found for E:\codedecode\dsa\Sliding Window\MinWindowSubstr.java. Using fallback presentation compiler.
+2026.03.17 23:29:34 INFO  no build target found for E:\codedecode\dsa\Sliding Window\MinWindowSubstr.java. Using fallback presentation compiler.
+Mar 17, 2026 11:29:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1577
+Mar 17, 2026 11:29:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1578
+2026.03.17 23:29:34 INFO  no build target found for E:\codedecode\dsa\Sliding Window\MinWindowSubstr.java. Using fallback presentation compiler.
+2026.03.17 23:29:34 INFO  no build target found for E:\codedecode\dsa\Sliding Window\MinWindowSubstr.java. Using fallback presentation compiler.
+Mar 17, 2026 11:29:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1579
+2026.03.17 23:29:34 INFO  no build target found for E:\codedecode\dsa\Sliding Window\MinWindowSubstr.java. Using fallback presentation compiler.
+Mar 17, 2026 11:29:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1580
+2026.03.17 23:29:34 INFO  no build target found for E:\codedecode\dsa\Sliding Window\MinWindowSubstr.java. Using fallback presentation compiler.
+Mar 17, 2026 11:29:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1581
+2026.03.17 23:29:34 INFO  no build target found for E:\codedecode\dsa\Sliding Window\MinWindowSubstr.java. Using fallback presentation compiler.
+Mar 17, 2026 11:29:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1582
+2026.03.17 23:29:35 INFO  no build target found for E:\codedecode\dsa\Sliding Window\MinWindowSubstr.java. Using fallback presentation compiler.
+Mar 17, 2026 11:29:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1583
+2026.03.17 23:29:35 INFO  no build target found for E:\codedecode\dsa\Sliding Window\MinWindowSubstr.java. Using fallback presentation compiler.
+Mar 17, 2026 11:29:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1584
+2026.03.17 23:29:35 INFO  no build target found for E:\codedecode\dsa\Sliding Window\MinWindowSubstr.java. Using fallback presentation compiler.
+Mar 17, 2026 11:29:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1585
+2026.03.17 23:29:35 INFO  no build target found for E:\codedecode\dsa\Sliding Window\MinWindowSubstr.java. Using fallback presentation compiler.
+Mar 17, 2026 11:29:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1586
+2026.03.17 23:29:35 INFO  no build target found for E:\codedecode\dsa\Sliding Window\MinWindowSubstr.java. Using fallback presentation compiler.
+Mar 17, 2026 11:29:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1587
+2026.03.17 23:29:35 INFO  no build target found for E:\codedecode\dsa\Sliding Window\MinWindowSubstr.java. Using fallback presentation compiler.
+Mar 17, 2026 11:29:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1588
+2026.03.17 23:29:36 INFO  no build target found for E:\codedecode\dsa\Sliding Window\MinWindowSubstr.java. Using fallback presentation compiler.
+Mar 17, 2026 11:29:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1589
+2026.03.17 23:29:36 INFO  no build target found for E:\codedecode\dsa\Sliding Window\MinWindowSubstr.java. Using fallback presentation compiler.
+Mar 17, 2026 11:29:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1590
+2026.03.17 23:29:36 INFO  no build target found for E:\codedecode\dsa\Sliding Window\MinWindowSubstr.java. Using fallback presentation compiler.
+Mar 17, 2026 11:29:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1591
+2026.03.17 23:29:36 INFO  no build target found for E:\codedecode\dsa\Sliding Window\MinWindowSubstr.java. Using fallback presentation compiler.
+Mar 17, 2026 11:29:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1592
+2026.03.17 23:29:36 INFO  no build target found for E:\codedecode\dsa\Sliding Window\MinWindowSubstr.java. Using fallback presentation compiler.
+Mar 17, 2026 11:29:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1593
+2026.03.17 23:29:36 INFO  no build target found for E:\codedecode\dsa\Sliding Window\MinWindowSubstr.java. Using fallback presentation compiler.
+Mar 17, 2026 11:29:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1594
+Mar 17, 2026 11:29:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1595
+Mar 17, 2026 11:29:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1596
+Mar 17, 2026 11:29:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1597
+Mar 17, 2026 11:29:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1598
+Mar 17, 2026 11:29:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1599
+2026.03.17 23:29:36 INFO  no build target found for E:\codedecode\dsa\Sliding Window\MinWindowSubstr.java. Using fallback presentation compiler.
+2026.03.17 23:29:37 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Sliding%20Window/MinWindowSubstr.java. Output:
+
+2026.03.17 23:29:39 INFO  no build target found for E:\codedecode\dsa\Sliding Window\MinWindowSubstr.java. Using fallback presentation compiler.
+2026.03.17 23:29:39 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Sliding%20Window/MinWindowSubstr.java. Output:
+
+2026.03.17 23:29:39 INFO  no build target found for E:\codedecode\dsa\Sliding Window\MinWindowSubstr.java. Using fallback presentation compiler.
+2026.03.17 23:29:41 INFO  no build target found for E:\codedecode\dsa\Sliding Window\MinWindowSubstr.java. Using fallback presentation compiler.
+2026.03.17 23:29:41 INFO  no build target found for E:\codedecode\dsa\Sliding Window\MinWindowSubstr.java. Using fallback presentation compiler.
+2026.03.17 23:29:42 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Sliding%20Window/MinWindowSubstr.java. Output:
+
+2026.03.17 23:29:41 INFO  no build target found for E:\codedecode\dsa\Sliding Window\MinWindowSubstr.java. Using fallback presentation compiler.
+2026.03.17 23:29:43 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Sliding%20Window/MinWindowSubstr.java. Output:
+
+2026.03.17 23:29:44 INFO  no build target found for E:\codedecode\dsa\Sliding Window\MinWindowSubstr.java. Using fallback presentation compiler.
+2026.03.17 23:29:49 INFO  no build target found for E:\codedecode\dsa\Sliding Window\MinWindowSubstr.java. Using fallback presentation compiler.
+2026.03.17 23:29:50 INFO  no build target found for E:\codedecode\dsa\Sliding Window\MinWindowSubstr.java. Using fallback presentation compiler.
+2026.03.17 23:29:50 INFO  no build target found for E:\codedecode\dsa\Sliding Window\MinWindowSubstr.java. Using fallback presentation compiler.
+2026.03.17 23:29:50 INFO  no build target found for E:\codedecode\dsa\Sliding Window\MinWindowSubstr.java. Using fallback presentation compiler.
+2026.03.17 23:29:50 INFO  no build target found for E:\codedecode\dsa\Sliding Window\MinWindowSubstr.java. Using fallback presentation compiler.
+2026.03.17 23:29:51 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Sliding%20Window/MinWindowSubstr.java. Output:
+
+2026.03.17 23:29:53 INFO  no build target found for E:\codedecode\dsa\Sliding Window\MinWindowSubstr.java. Using fallback presentation compiler.
+2026.03.17 23:29:53 INFO  no build target found for E:\codedecode\dsa\Sliding Window\MinWindowSubstr.java. Using fallback presentation compiler.
+2026.03.17 23:29:53 INFO  no build target found for E:\codedecode\dsa\Sliding Window\MinWindowSubstr.java. Using fallback presentation compiler.
+2026.03.17 23:29:53 INFO  no build target found for E:\codedecode\dsa\Sliding Window\MinWindowSubstr.java. Using fallback presentation compiler.
+2026.03.17 23:29:53 INFO  no build target found for E:\codedecode\dsa\Sliding Window\MinWindowSubstr.java. Using fallback presentation compiler.
+2026.03.17 23:29:53 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Sliding%20Window/MinWindowSubstr.java. Output:
+
+2026.03.17 23:29:53 INFO  no build target found for E:\codedecode\dsa\Sliding Window\MinWindowSubstr.java. Using fallback presentation compiler.
+2026.03.17 23:29:53 INFO  no build target found for E:\codedecode\dsa\Sliding Window\MinWindowSubstr.java. Using fallback presentation compiler.
+2026.03.17 23:29:54 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Sliding%20Window/MinWindowSubstr.java. Output:
+
+2026.03.17 23:29:54 INFO  no build target found for E:\codedecode\dsa\Sliding Window\MinWindowSubstr.java. Using fallback presentation compiler.
+2026.03.17 23:29:54 INFO  no build target found for E:\codedecode\dsa\Sliding Window\MinWindowSubstr.java. Using fallback presentation compiler.
+2026.03.17 23:29:54 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Sliding%20Window/MinWindowSubstr.java. Output:
+
+2026.03.17 23:29:54 INFO  no build target found for E:\codedecode\dsa\Sliding Window\MinWindowSubstr.java. Using fallback presentation compiler.
+2026.03.17 23:29:54 INFO  no build target found for E:\codedecode\dsa\Sliding Window\MinWindowSubstr.java. Using fallback presentation compiler.
+2026.03.17 23:29:55 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Sliding%20Window/MinWindowSubstr.java. Output:
+
+2026.03.17 23:29:56 INFO  no build target found for E:\codedecode\dsa\Sliding Window\MinWindowSubstr.java. Using fallback presentation compiler.
+2026.03.17 23:29:56 INFO  no build target found for E:\codedecode\dsa\Sliding Window\MinWindowSubstr.java. Using fallback presentation compiler.
+Mar 17, 2026 11:29:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1688
+Mar 17, 2026 11:29:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1689
+Mar 17, 2026 11:29:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1690
+2026.03.17 23:29:58 INFO  no build target found for E:\codedecode\dsa\Sliding Window\MinWindowSubstr.java. Using fallback presentation compiler.
+2026.03.17 23:29:59 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Sliding%20Window/MinWindowSubstr.java. Output:
+
+2026.03.17 23:30:00 INFO  no build target found for E:\codedecode\dsa\Sliding Window\MinWindowSubstr.java. Using fallback presentation compiler.
+2026.03.17 23:30:00 INFO  no build target found for E:\codedecode\dsa\Sliding Window\MinWindowSubstr.java. Using fallback presentation compiler.
+2026.03.17 23:30:00 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Sliding%20Window/MinWindowSubstr.java. Output:
+
+2026.03.17 23:30:01 INFO  no build target found for E:\codedecode\dsa\Sliding Window\MinWindowSubstr.java. Using fallback presentation compiler.
+2026.03.17 23:30:02 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Sliding%20Window/MinWindowSubstr.java. Output:
+
+2026.03.17 23:30:02 INFO  no build target found for E:\codedecode\dsa\Sliding Window\MinWindowSubstr.java. Using fallback presentation compiler.
+2026.03.17 23:30:02 INFO  no build target found for E:\codedecode\dsa\Sliding Window\MinWindowSubstr.java. Using fallback presentation compiler.
+2026.03.17 23:30:03 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Sliding%20Window/MinWindowSubstr.java. Output:
+
+2026.03.17 23:30:04 INFO  no build target found for E:\codedecode\dsa\Sliding Window\MinWindowSubstr.java. Using fallback presentation compiler.
+2026.03.17 23:30:04 WARN  no build target for: E:\codedecode\dsa\Sliding Window\MinWindowSubstr.java
+2026.03.17 23:30:04 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Sliding%20Window/MinWindowSubstr.java. Output:
+
+2026.03.17 23:30:04 INFO  Created report: Optional[file:///E:/codedecode/dsa/Sliding%20Window/MinWindowSubstr.java]
+2026.03.17 23:30:04 INFO  QDox parse error in file:///E:/codedecode/dsa/Sliding%20Window/MinWindowSubstr.java (full report at: "E:\codedecode\dsa\.metals\.reports\metals-full\2026-03-17\r_qdox-error_23-30-04-221.md")
+2026.03.17 23:30:04 INFO  no build target found for E:\codedecode\dsa\Sliding Window\MinWindowSubstr.java. Using fallback presentation compiler.
+2026.03.17 23:30:07 INFO  no build target found for E:\codedecode\dsa\Sliding Window\MinWindowSubstr.java. Using fallback presentation compiler.
+2026.03.17 23:30:07 INFO  no build target found for E:\codedecode\dsa\Sliding Window\MinWindowSubstr.java. Using fallback presentation compiler.
+2026.03.17 23:30:08 INFO  no build target found for E:\codedecode\dsa\Sliding Window\MinWindowSubstr.java. Using fallback presentation compiler.
+Mar 17, 2026 11:30:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1737
+2026.03.17 23:30:08 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Sliding%20Window/MinWindowSubstr.java. Output:
+
+2026.03.17 23:30:09 INFO  no build target found for E:\codedecode\dsa\Sliding Window\MinWindowSubstr.java. Using fallback presentation compiler.
+2026.03.17 23:30:09 INFO  no build target found for E:\codedecode\dsa\Sliding Window\MinWindowSubstr.java. Using fallback presentation compiler.
+2026.03.17 23:30:09 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Sliding%20Window/MinWindowSubstr.java. Output:
+
+2026.03.17 23:30:09 INFO  no build target found for E:\codedecode\dsa\Sliding Window\MinWindowSubstr.java. Using fallback presentation compiler.
+2026.03.17 23:30:09 INFO  no build target found for E:\codedecode\dsa\Sliding Window\MinWindowSubstr.java. Using fallback presentation compiler.
+Mar 17, 2026 11:30:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1751
+2026.03.17 23:30:09 INFO  no build target found for E:\codedecode\dsa\Sliding Window\MinWindowSubstr.java. Using fallback presentation compiler.
+Mar 17, 2026 11:30:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1753
+2026.03.17 23:30:10 INFO  no build target found for E:\codedecode\dsa\Sliding Window\MinWindowSubstr.java. Using fallback presentation compiler.
+2026.03.17 23:30:10 INFO  no build target found for E:\codedecode\dsa\Sliding Window\MinWindowSubstr.java. Using fallback presentation compiler.
+Mar 17, 2026 11:30:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1754
+Mar 17, 2026 11:30:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1755
+2026.03.17 23:30:10 INFO  no build target found for E:\codedecode\dsa\Sliding Window\MinWindowSubstr.java. Using fallback presentation compiler.
+2026.03.17 23:30:10 INFO  no build target found for E:\codedecode\dsa\Sliding Window\MinWindowSubstr.java. Using fallback presentation compiler.
+Mar 17, 2026 11:30:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1756
+2026.03.17 23:30:10 INFO  no build target found for E:\codedecode\dsa\Sliding Window\MinWindowSubstr.java. Using fallback presentation compiler.
+2026.03.17 23:30:11 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Sliding%20Window/MinWindowSubstr.java. Output:
+
+2026.03.17 23:30:11 INFO  no build target found for E:\codedecode\dsa\Sliding Window\MinWindowSubstr.java. Using fallback presentation compiler.
+2026.03.17 23:30:11 INFO  no build target found for E:\codedecode\dsa\Sliding Window\MinWindowSubstr.java. Using fallback presentation compiler.
+2026.03.17 23:30:12 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Sliding%20Window/MinWindowSubstr.java. Output:
+
+2026.03.17 23:30:13 INFO  no build target found for E:\codedecode\dsa\Sliding Window\MinWindowSubstr.java. Using fallback presentation compiler.
+2026.03.17 23:30:13 WARN  no build target for: E:\codedecode\dsa\Sliding Window\MinWindowSubstr.java
+2026.03.17 23:30:13 INFO  QDox parse error in file:///E:/codedecode/dsa/Sliding%20Window/MinWindowSubstr.java (full report at: "E:\codedecode\dsa\.metals\.reports\metals-full\2026-03-17\r_qdox-error_23-30-04-221.md")
+2026.03.17 23:30:13 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Sliding%20Window/MinWindowSubstr.java. Output:
+
+2026.03.17 23:30:15 INFO  no build target found for E:\codedecode\dsa\Sliding Window\MinWindowSubstr.java. Using fallback presentation compiler.
+2026.03.17 23:30:15 INFO  no build target found for E:\codedecode\dsa\Sliding Window\MinWindowSubstr.java. Using fallback presentation compiler.
+2026.03.17 23:30:15 INFO  no build target found for E:\codedecode\dsa\Sliding Window\MinWindowSubstr.java. Using fallback presentation compiler.
+2026.03.17 23:30:15 INFO  no build target found for E:\codedecode\dsa\Sliding Window\MinWindowSubstr.java. Using fallback presentation compiler.
+2026.03.17 23:30:15 INFO  no build target found for E:\codedecode\dsa\Sliding Window\MinWindowSubstr.java. Using fallback presentation compiler.
+2026.03.17 23:30:17 INFO  no build target found for E:\codedecode\dsa\Sliding Window\MinWindowSubstr.java. Using fallback presentation compiler.
+2026.03.17 23:30:17 INFO  no build target found for E:\codedecode\dsa\Sliding Window\MinWindowSubstr.java. Using fallback presentation compiler.
+2026.03.17 23:30:17 INFO  no build target found for E:\codedecode\dsa\Sliding Window\MinWindowSubstr.java. Using fallback presentation compiler.
+Mar 17, 2026 11:30:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1801
+2026.03.17 23:30:18 INFO  no build target found for E:\codedecode\dsa\Sliding Window\MinWindowSubstr.java. Using fallback presentation compiler.
+2026.03.17 23:30:22 WARN  no build target for: E:\codedecode\dsa\Stack\DailyTemps.java
+2026.03.17 23:30:22 INFO  no build target found for E:\codedecode\dsa\Stack\DailyTemps.java. Using fallback presentation compiler.
+2026.03.17 23:30:22 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Stack/DailyTemps.java. Output:
+
+2026.03.17 23:30:22 INFO  no build target found for E:\codedecode\dsa\Stack\DailyTemps.java. Using fallback presentation compiler.
+2026.03.17 23:30:24 INFO  no build target found for E:\codedecode\dsa\Stack\DailyTemps.java. Using fallback presentation compiler.
+2026.03.17 23:30:24 INFO  no build target found for E:\codedecode\dsa\Stack\DailyTemps.java. Using fallback presentation compiler.
+Mar 17, 2026 11:30:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1817
+2026.03.17 23:30:24 INFO  no build target found for E:\codedecode\dsa\Stack\DailyTemps.java. Using fallback presentation compiler.
+2026.03.17 23:30:24 INFO  no build target found for E:\codedecode\dsa\Stack\DailyTemps.java. Using fallback presentation compiler.
+2026.03.17 23:30:25 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Stack/DailyTemps.java. Output:
+
+2026.03.17 23:30:26 INFO  no build target found for E:\codedecode\dsa\Stack\DailyTemps.java. Using fallback presentation compiler.
+2026.03.17 23:30:26 INFO  no build target found for E:\codedecode\dsa\Stack\DailyTemps.java. Using fallback presentation compiler.
+2026.03.17 23:30:26 INFO  no build target found for E:\codedecode\dsa\Stack\DailyTemps.java. Using fallback presentation compiler.
+2026.03.17 23:30:26 INFO  no build target found for E:\codedecode\dsa\Stack\DailyTemps.java. Using fallback presentation compiler.
+Mar 17, 2026 11:30:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1829
+2026.03.17 23:30:26 INFO  no build target found for E:\codedecode\dsa\Stack\DailyTemps.java. Using fallback presentation compiler.
+2026.03.17 23:30:26 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Stack/DailyTemps.java. Output:
+
+2026.03.17 23:30:27 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Stack/DailyTemps.java. Output:
+
+2026.03.17 23:30:29 INFO  no build target found for E:\codedecode\dsa\Stack\DailyTemps.java. Using fallback presentation compiler.
+2026.03.17 23:30:29 INFO  no build target found for E:\codedecode\dsa\Stack\DailyTemps.java. Using fallback presentation compiler.
+2026.03.17 23:30:29 INFO  no build target found for E:\codedecode\dsa\Stack\DailyTemps.java. Using fallback presentation compiler.
+2026.03.17 23:30:30 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Stack/DailyTemps.java. Output:
+
+2026.03.17 23:30:30 INFO  no build target found for E:\codedecode\dsa\Stack\DailyTemps.java. Using fallback presentation compiler.
+2026.03.17 23:30:30 INFO  no build target found for E:\codedecode\dsa\Stack\DailyTemps.java. Using fallback presentation compiler.
+2026.03.17 23:30:30 INFO  no build target found for E:\codedecode\dsa\Stack\DailyTemps.java. Using fallback presentation compiler.
+2026.03.17 23:30:30 INFO  no build target found for E:\codedecode\dsa\Stack\DailyTemps.java. Using fallback presentation compiler.
+2026.03.17 23:30:30 INFO  no build target found for E:\codedecode\dsa\Stack\DailyTemps.java. Using fallback presentation compiler.
+2026.03.17 23:30:30 INFO  no build target found for E:\codedecode\dsa\Stack\DailyTemps.java. Using fallback presentation compiler.
+2026.03.17 23:30:30 INFO  no build target found for E:\codedecode\dsa\Stack\DailyTemps.java. Using fallback presentation compiler.
+2026.03.17 23:30:31 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Stack/DailyTemps.java. Output:
+
+2026.03.17 23:30:36 INFO  no build target found for E:\codedecode\dsa\Stack\DailyTemps.java. Using fallback presentation compiler.
+2026.03.17 23:30:36 INFO  no build target found for E:\codedecode\dsa\Stack\DailyTemps.java. Using fallback presentation compiler.
+2026.03.17 23:30:36 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Stack/DailyTemps.java. Output:
+
+2026.03.17 23:30:36 INFO  no build target found for E:\codedecode\dsa\Stack\DailyTemps.java. Using fallback presentation compiler.
+2026.03.17 23:30:36 INFO  no build target found for E:\codedecode\dsa\Stack\DailyTemps.java. Using fallback presentation compiler.
+2026.03.17 23:30:37 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Stack/DailyTemps.java. Output:
+
+2026.03.17 23:30:39 INFO  no build target found for E:\codedecode\dsa\Stack\DailyTemps.java. Using fallback presentation compiler.
+2026.03.17 23:30:39 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Stack/DailyTemps.java. Output:
+
+2026.03.17 23:30:40 INFO  no build target found for E:\codedecode\dsa\Stack\DailyTemps.java. Using fallback presentation compiler.
+2026.03.17 23:30:39 WARN  no build target for: E:\codedecode\dsa\Stack\DailyTemps.java
+2026.03.17 23:30:40 WARN  no build target for: E:\codedecode\dsa\Stack\DailyTemps.java
+2026.03.17 23:30:42 INFO  no build target found for E:\codedecode\dsa\Stack\DailyTemps.java. Using fallback presentation compiler.
+2026.03.17 23:30:44 INFO  no build target found for E:\codedecode\dsa\Stack\DailyTemps.java. Using fallback presentation compiler.
+2026.03.17 23:30:44 INFO  no build target found for E:\codedecode\dsa\Stack\DailyTemps.java. Using fallback presentation compiler.
+2026.03.17 23:30:44 INFO  no build target found for E:\codedecode\dsa\Stack\DailyTemps.java. Using fallback presentation compiler.
+Mar 17, 2026 11:30:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1907
+2026.03.17 23:30:44 INFO  no build target found for E:\codedecode\dsa\Stack\DailyTemps.java. Using fallback presentation compiler.
+Mar 17, 2026 11:30:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1908
+2026.03.17 23:30:44 INFO  no build target found for E:\codedecode\dsa\Stack\DailyTemps.java. Using fallback presentation compiler.
+Mar 17, 2026 11:30:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1909
+2026.03.17 23:30:44 INFO  no build target found for E:\codedecode\dsa\Stack\DailyTemps.java. Using fallback presentation compiler.
+2026.03.17 23:30:45 INFO  no build target found for E:\codedecode\dsa\Stack\DailyTemps.java. Using fallback presentation compiler.
+2026.03.17 23:30:45 INFO  no build target found for E:\codedecode\dsa\Stack\DailyTemps.java. Using fallback presentation compiler.
+Mar 17, 2026 11:30:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1911
+Mar 17, 2026 11:30:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1912
+2026.03.17 23:30:45 INFO  no build target found for E:\codedecode\dsa\Stack\DailyTemps.java. Using fallback presentation compiler.
+2026.03.17 23:30:45 INFO  no build target found for E:\codedecode\dsa\Stack\DailyTemps.java. Using fallback presentation compiler.
+Mar 17, 2026 11:30:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1913
+2026.03.17 23:30:45 INFO  no build target found for E:\codedecode\dsa\Stack\DailyTemps.java. Using fallback presentation compiler.
+Mar 17, 2026 11:30:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1915
+2026.03.17 23:30:45 INFO  no build target found for E:\codedecode\dsa\Stack\DailyTemps.java. Using fallback presentation compiler.
+Mar 17, 2026 11:30:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1916
+2026.03.17 23:30:45 INFO  no build target found for E:\codedecode\dsa\Stack\DailyTemps.java. Using fallback presentation compiler.
+Mar 17, 2026 11:30:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1917
+2026.03.17 23:30:46 INFO  no build target found for E:\codedecode\dsa\Stack\DailyTemps.java. Using fallback presentation compiler.
+2026.03.17 23:30:46 INFO  no build target found for E:\codedecode\dsa\Stack\DailyTemps.java. Using fallback presentation compiler.
+Mar 17, 2026 11:30:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1918
+2026.03.17 23:30:46 INFO  no build target found for E:\codedecode\dsa\Stack\DailyTemps.java. Using fallback presentation compiler.
+2026.03.17 23:30:47 INFO  no build target found for E:\codedecode\dsa\Stack\DailyTemps.java. Using fallback presentation compiler.
+2026.03.17 23:30:49 INFO  no build target found for E:\codedecode\dsa\Stack\DailyTemps.java. Using fallback presentation compiler.
+2026.03.17 23:30:50 INFO  no build target found for E:\codedecode\dsa\Stack\DailyTemps.java. Using fallback presentation compiler.
+2026.03.17 23:30:50 WARN  no build target for: E:\codedecode\dsa\Stack\DailyTemps.java
+2026.03.17 23:30:50 INFO  no build target found for E:\codedecode\dsa\Stack\DailyTemps.java. Using fallback presentation compiler.
+2026.03.17 23:30:52 INFO  no build target found for E:\codedecode\dsa\Stack\DailyTemps.java. Using fallback presentation compiler.
+2026.03.17 23:30:52 INFO  no build target found for E:\codedecode\dsa\Stack\DailyTemps.java. Using fallback presentation compiler.
+2026.03.17 23:30:52 INFO  no build target found for E:\codedecode\dsa\Stack\DailyTemps.java. Using fallback presentation compiler.
+Mar 17, 2026 11:30:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1958
+2026.03.17 23:30:56 WARN  no build target for: E:\codedecode\dsa\Stack\ValidParentheses.java
+2026.03.17 23:30:56 INFO  no build target found for E:\codedecode\dsa\Stack\ValidParentheses.java. Using fallback presentation compiler.
+2026.03.17 23:30:56 INFO  no build target found for E:\codedecode\dsa\Stack\ValidParentheses.java. Using fallback presentation compiler.
+2026.03.17 23:30:57 INFO  no build target found for E:\codedecode\dsa\Stack\ValidParentheses.java. Using fallback presentation compiler.
+2026.03.17 23:30:57 INFO  no build target found for E:\codedecode\dsa\Stack\ValidParentheses.java. Using fallback presentation compiler.
+2026.03.17 23:30:57 INFO  no build target found for E:\codedecode\dsa\Stack\ValidParentheses.java. Using fallback presentation compiler.
+2026.03.17 23:30:58 INFO  no build target found for E:\codedecode\dsa\Stack\ValidParentheses.java. Using fallback presentation compiler.
+2026.03.17 23:30:58 WARN  no build target for: E:\codedecode\dsa\Stack\ValidParentheses.java
+2026.03.17 23:30:58 INFO  no build target found for E:\codedecode\dsa\Stack\ValidParentheses.java. Using fallback presentation compiler.
+2026.03.17 23:30:58 INFO  no build target found for E:\codedecode\dsa\Stack\ValidParentheses.java. Using fallback presentation compiler.
+2026.03.17 23:30:58 INFO  no build target found for E:\codedecode\dsa\Stack\ValidParentheses.java. Using fallback presentation compiler.
+2026.03.17 23:31:00 INFO  no build target found for E:\codedecode\dsa\Stack\ValidParentheses.java. Using fallback presentation compiler.
+2026.03.17 23:31:03 INFO  no build target found for E:\codedecode\dsa\Stack\ValidParentheses.java. Using fallback presentation compiler.
+2026.03.17 23:31:04 INFO  no build target found for E:\codedecode\dsa\Stack\ValidParentheses.java. Using fallback presentation compiler.
+2026.03.17 23:31:04 INFO  no build target found for E:\codedecode\dsa\Stack\ValidParentheses.java. Using fallback presentation compiler.
+2026.03.17 23:31:04 INFO  no build target found for E:\codedecode\dsa\Stack\ValidParentheses.java. Using fallback presentation compiler.
+2026.03.17 23:31:04 INFO  no build target found for E:\codedecode\dsa\Stack\ValidParentheses.java. Using fallback presentation compiler.
+Mar 17, 2026 11:31:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2004
+2026.03.17 23:31:05 INFO  no build target found for E:\codedecode\dsa\Stack\ValidParentheses.java. Using fallback presentation compiler.
+Mar 17, 2026 11:31:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2005
+2026.03.17 23:31:05 INFO  no build target found for E:\codedecode\dsa\Stack\ValidParentheses.java. Using fallback presentation compiler.
+Mar 17, 2026 11:31:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2006
+2026.03.17 23:31:05 INFO  no build target found for E:\codedecode\dsa\Stack\ValidParentheses.java. Using fallback presentation compiler.
+Mar 17, 2026 11:31:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2007
+2026.03.17 23:31:05 INFO  no build target found for E:\codedecode\dsa\Stack\ValidParentheses.java. Using fallback presentation compiler.
+Mar 17, 2026 11:31:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2008
+2026.03.17 23:31:05 INFO  no build target found for E:\codedecode\dsa\Stack\ValidParentheses.java. Using fallback presentation compiler.
+2026.03.17 23:31:05 INFO  no build target found for E:\codedecode\dsa\Stack\ValidParentheses.java. Using fallback presentation compiler.
+Mar 17, 2026 11:31:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2009
+Mar 17, 2026 11:31:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2010
+Mar 17, 2026 11:31:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2011
+Mar 17, 2026 11:31:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2012
+2026.03.17 23:31:05 INFO  no build target found for E:\codedecode\dsa\Stack\ValidParentheses.java. Using fallback presentation compiler.
+2026.03.17 23:31:05 INFO  no build target found for E:\codedecode\dsa\Stack\ValidParentheses.java. Using fallback presentation compiler.
+Mar 17, 2026 11:31:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2013
+2026.03.17 23:31:05 INFO  no build target found for E:\codedecode\dsa\Stack\ValidParentheses.java. Using fallback presentation compiler.
+Mar 17, 2026 11:31:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2014
+2026.03.17 23:31:07 INFO  no build target found for E:\codedecode\dsa\Stack\ValidParentheses.java. Using fallback presentation compiler.
+Mar 17, 2026 11:31:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2015
+2026.03.17 23:31:07 INFO  no build target found for E:\codedecode\dsa\Stack\ValidParentheses.java. Using fallback presentation compiler.
+Mar 17, 2026 11:31:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2016
+Mar 17, 2026 11:31:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2018
+Mar 17, 2026 11:31:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2019
+2026.03.17 23:31:07 INFO  no build target found for E:\codedecode\dsa\Stack\ValidParentheses.java. Using fallback presentation compiler.
+2026.03.17 23:31:07 INFO  no build target found for E:\codedecode\dsa\Stack\ValidParentheses.java. Using fallback presentation compiler.
+2026.03.17 23:31:07 INFO  no build target found for E:\codedecode\dsa\Stack\ValidParentheses.java. Using fallback presentation compiler.
+2026.03.17 23:31:08 INFO  no build target found for E:\codedecode\dsa\Stack\ValidParentheses.java. Using fallback presentation compiler.
+2026.03.17 23:31:08 INFO  no build target found for E:\codedecode\dsa\Stack\ValidParentheses.java. Using fallback presentation compiler.
+2026.03.17 23:31:09 WARN  no build target for: E:\codedecode\dsa\Stack\ValidParentheses.java
+2026.03.17 23:31:16 WARN  no build target for: E:\codedecode\dsa\Trees\LevelOrder.java
+2026.03.17 23:31:16 INFO  no build target found for E:\codedecode\dsa\Trees\LevelOrder.java. Using fallback presentation compiler.
+2026.03.17 23:31:16 INFO  no build target found for E:\codedecode\dsa\Trees\LevelOrder.java. Using fallback presentation compiler.
+2026.03.17 23:31:18 INFO  no build target found for E:\codedecode\dsa\Trees\LevelOrder.java. Using fallback presentation compiler.
+2026.03.17 23:31:19 INFO  no build target found for E:\codedecode\dsa\Trees\LevelOrder.java. Using fallback presentation compiler.
+2026.03.17 23:31:19 INFO  no build target found for E:\codedecode\dsa\Trees\LevelOrder.java. Using fallback presentation compiler.
+2026.03.17 23:31:19 INFO  no build target found for E:\codedecode\dsa\Trees\LevelOrder.java. Using fallback presentation compiler.
+2026.03.17 23:31:19 INFO  no build target found for E:\codedecode\dsa\Trees\LevelOrder.java. Using fallback presentation compiler.
+2026.03.17 23:31:19 INFO  no build target found for E:\codedecode\dsa\Trees\LevelOrder.java. Using fallback presentation compiler.
+Mar 17, 2026 11:31:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2066
+2026.03.17 23:31:19 INFO  no build target found for E:\codedecode\dsa\Trees\LevelOrder.java. Using fallback presentation compiler.
+Mar 17, 2026 11:31:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2068
+2026.03.17 23:31:20 INFO  no build target found for E:\codedecode\dsa\Trees\LevelOrder.java. Using fallback presentation compiler.
+Mar 17, 2026 11:31:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2069
+2026.03.17 23:31:20 INFO  no build target found for E:\codedecode\dsa\Trees\LevelOrder.java. Using fallback presentation compiler.
+Mar 17, 2026 11:31:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2070
+2026.03.17 23:31:20 INFO  no build target found for E:\codedecode\dsa\Trees\LevelOrder.java. Using fallback presentation compiler.
+2026.03.17 23:31:20 INFO  no build target found for E:\codedecode\dsa\Trees\LevelOrder.java. Using fallback presentation compiler.
+2026.03.17 23:31:20 INFO  no build target found for E:\codedecode\dsa\Trees\LevelOrder.java. Using fallback presentation compiler.
+2026.03.17 23:31:22 INFO  no build target found for E:\codedecode\dsa\Trees\LevelOrder.java. Using fallback presentation compiler.
+2026.03.17 23:31:22 INFO  no build target found for E:\codedecode\dsa\Trees\LevelOrder.java. Using fallback presentation compiler.
+2026.03.17 23:31:23 INFO  no build target found for E:\codedecode\dsa\Trees\LevelOrder.java. Using fallback presentation compiler.
+2026.03.17 23:31:23 INFO  no build target found for E:\codedecode\dsa\Trees\LevelOrder.java. Using fallback presentation compiler.
+2026.03.17 23:31:24 INFO  no build target found for E:\codedecode\dsa\Trees\LevelOrder.java. Using fallback presentation compiler.
+2026.03.17 23:31:24 INFO  no build target found for E:\codedecode\dsa\Trees\LevelOrder.java. Using fallback presentation compiler.
+2026.03.17 23:31:25 INFO  no build target found for E:\codedecode\dsa\Trees\LevelOrder.java. Using fallback presentation compiler.
+2026.03.17 23:31:25 INFO  no build target found for E:\codedecode\dsa\Trees\LevelOrder.java. Using fallback presentation compiler.
+2026.03.17 23:31:27 INFO  no build target found for E:\codedecode\dsa\Trees\LevelOrder.java. Using fallback presentation compiler.
+2026.03.17 23:31:29 INFO  no build target found for E:\codedecode\dsa\Trees\LevelOrder.java. Using fallback presentation compiler.
+2026.03.17 23:31:29 INFO  no build target found for E:\codedecode\dsa\Trees\LevelOrder.java. Using fallback presentation compiler.
+2026.03.17 23:31:30 INFO  no build target found for E:\codedecode\dsa\Trees\LevelOrder.java. Using fallback presentation compiler.
+2026.03.17 23:31:30 WARN  no build target for: E:\codedecode\dsa\Trees\LevelOrder.java
+2026.03.17 23:31:30 INFO  no build target found for E:\codedecode\dsa\Trees\LevelOrder.java. Using fallback presentation compiler.
+2026.03.17 23:31:31 INFO  no build target found for E:\codedecode\dsa\Trees\LevelOrder.java. Using fallback presentation compiler.
+2026.03.17 23:31:31 INFO  no build target found for E:\codedecode\dsa\Trees\LevelOrder.java. Using fallback presentation compiler.
+2026.03.17 23:31:33 INFO  no build target found for E:\codedecode\dsa\Trees\LevelOrder.java. Using fallback presentation compiler.
+2026.03.17 23:31:33 INFO  no build target found for E:\codedecode\dsa\Trees\LevelOrder.java. Using fallback presentation compiler.
+2026.03.17 23:31:33 INFO  no build target found for E:\codedecode\dsa\Trees\LevelOrder.java. Using fallback presentation compiler.
+2026.03.17 23:31:35 INFO  no build target found for E:\codedecode\dsa\Trees\LevelOrder.java. Using fallback presentation compiler.
+2026.03.17 23:31:38 WARN  no build target for: E:\codedecode\dsa\Trees\ValidateBST.java
+2026.03.17 23:31:38 INFO  no build target found for E:\codedecode\dsa\Trees\ValidateBST.java. Using fallback presentation compiler.
+2026.03.17 23:31:38 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Trees/ValidateBST.java. Output:
+
+2026.03.17 23:31:38 INFO  no build target found for E:\codedecode\dsa\Trees\ValidateBST.java. Using fallback presentation compiler.
+2026.03.17 23:31:41 INFO  no build target found for E:\codedecode\dsa\Trees\ValidateBST.java. Using fallback presentation compiler.
+2026.03.17 23:31:41 INFO  no build target found for E:\codedecode\dsa\Trees\ValidateBST.java. Using fallback presentation compiler.
+2026.03.17 23:31:41 INFO  no build target found for E:\codedecode\dsa\Trees\ValidateBST.java. Using fallback presentation compiler.
+2026.03.17 23:31:42 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Trees/ValidateBST.java. Output:
+
+2026.03.17 23:31:41 INFO  no build target found for E:\codedecode\dsa\Trees\ValidateBST.java. Using fallback presentation compiler.
+2026.03.17 23:31:41 INFO  no build target found for E:\codedecode\dsa\Trees\ValidateBST.java. Using fallback presentation compiler.
+2026.03.17 23:31:42 INFO  no build target found for E:\codedecode\dsa\Trees\ValidateBST.java. Using fallback presentation compiler.
+Mar 17, 2026 11:31:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2175
+2026.03.17 23:31:42 INFO  no build target found for E:\codedecode\dsa\Trees\ValidateBST.java. Using fallback presentation compiler.
+2026.03.17 23:31:43 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Trees/ValidateBST.java. Output:
+
+2026.03.17 23:31:42 INFO  no build target found for E:\codedecode\dsa\Trees\ValidateBST.java. Using fallback presentation compiler.
+2026.03.17 23:31:42 INFO  no build target found for E:\codedecode\dsa\Trees\ValidateBST.java. Using fallback presentation compiler.
+2026.03.17 23:31:42 INFO  no build target found for E:\codedecode\dsa\Trees\ValidateBST.java. Using fallback presentation compiler.
+2026.03.17 23:31:43 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Trees/ValidateBST.java. Output:
+
+2026.03.17 23:31:44 INFO  no build target found for E:\codedecode\dsa\Trees\ValidateBST.java. Using fallback presentation compiler.
+2026.03.17 23:31:44 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Trees/ValidateBST.java. Output:
+
+2026.03.17 23:31:44 INFO  no build target found for E:\codedecode\dsa\Trees\ValidateBST.java. Using fallback presentation compiler.
+2026.03.17 23:31:44 INFO  no build target found for E:\codedecode\dsa\Trees\ValidateBST.java. Using fallback presentation compiler.
+2026.03.17 23:31:45 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Trees/ValidateBST.java. Output:
+
+2026.03.17 23:31:46 INFO  no build target found for E:\codedecode\dsa\Trees\ValidateBST.java. Using fallback presentation compiler.
+2026.03.17 23:31:46 WARN  no build target for: E:\codedecode\dsa\Trees\ValidateBST.java
+2026.03.17 23:31:46 INFO  no build target found for E:\codedecode\dsa\Trees\ValidateBST.java. Using fallback presentation compiler.
+2026.03.17 23:31:49 WARN  no build target for: E:\codedecode\dsa\Trees\ValidateBST.java
+2026.03.17 23:31:49 WARN  no build target for: E:\codedecode\dsa\Trees\ValidateBST.java
+2026.03.17 23:31:50 INFO  no build target found for E:\codedecode\dsa\Trees\ValidateBST.java. Using fallback presentation compiler.
+2026.03.17 23:31:51 INFO  no build target found for E:\codedecode\dsa\Trees\ValidateBST.java. Using fallback presentation compiler.
+2026.03.17 23:31:52 INFO  no build target found for E:\codedecode\dsa\Trees\ValidateBST.java. Using fallback presentation compiler.
+2026.03.17 23:31:52 INFO  no build target found for E:\codedecode\dsa\Trees\ValidateBST.java. Using fallback presentation compiler.
+2026.03.17 23:31:52 INFO  no build target found for E:\codedecode\dsa\Trees\ValidateBST.java. Using fallback presentation compiler.
+Mar 17, 2026 11:31:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2233
+2026.03.17 23:31:52 INFO  no build target found for E:\codedecode\dsa\Trees\ValidateBST.java. Using fallback presentation compiler.
+2026.03.17 23:31:54 INFO  no build target found for E:\codedecode\dsa\Trees\ValidateBST.java. Using fallback presentation compiler.
+Mar 17, 2026 11:31:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2234
+2026.03.17 23:31:54 INFO  no build target found for E:\codedecode\dsa\Trees\ValidateBST.java. Using fallback presentation compiler.
+Mar 17, 2026 11:31:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2235
+2026.03.17 23:31:54 INFO  no build target found for E:\codedecode\dsa\Trees\ValidateBST.java. Using fallback presentation compiler.
+2026.03.17 23:31:54 INFO  no build target found for E:\codedecode\dsa\Trees\ValidateBST.java. Using fallback presentation compiler.
+Mar 17, 2026 11:31:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2236
+2026.03.17 23:31:54 INFO  no build target found for E:\codedecode\dsa\Trees\ValidateBST.java. Using fallback presentation compiler.
+Mar 17, 2026 11:31:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2237
+2026.03.17 23:31:54 INFO  no build target found for E:\codedecode\dsa\Trees\ValidateBST.java. Using fallback presentation compiler.
+2026.03.17 23:31:54 INFO  no build target found for E:\codedecode\dsa\Trees\ValidateBST.java. Using fallback presentation compiler.
+Mar 17, 2026 11:31:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2238
+2026.03.17 23:31:54 INFO  no build target found for E:\codedecode\dsa\Trees\ValidateBST.java. Using fallback presentation compiler.
+Mar 17, 2026 11:31:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2239
+2026.03.17 23:31:54 INFO  no build target found for E:\codedecode\dsa\Trees\ValidateBST.java. Using fallback presentation compiler.
+Mar 17, 2026 11:31:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2240
+Mar 17, 2026 11:31:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2241
+Mar 17, 2026 11:31:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2242
+Mar 17, 2026 11:31:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2243
+Mar 17, 2026 11:31:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2244
+Mar 17, 2026 11:31:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2245
+2026.03.17 23:31:54 INFO  no build target found for E:\codedecode\dsa\Trees\ValidateBST.java. Using fallback presentation compiler.
+2026.03.17 23:31:55 INFO  no build target found for E:\codedecode\dsa\Trees\ValidateBST.java. Using fallback presentation compiler.
+2026.03.17 23:31:55 INFO  no build target found for E:\codedecode\dsa\Trees\ValidateBST.java. Using fallback presentation compiler.
+2026.03.17 23:31:56 INFO  no build target found for E:\codedecode\dsa\Trees\ValidateBST.java. Using fallback presentation compiler.
+2026.03.17 23:31:56 INFO  no build target found for E:\codedecode\dsa\Trees\ValidateBST.java. Using fallback presentation compiler.
+2026.03.17 23:31:58 INFO  no build target found for E:\codedecode\dsa\Trees\ValidateBST.java. Using fallback presentation compiler.
+2026.03.17 23:31:58 WARN  no build target for: E:\codedecode\dsa\Trees\ValidateBST.java
+2026.03.17 23:32:00 INFO  no build target found for E:\codedecode\dsa\Trees\ValidateBST.java. Using fallback presentation compiler.
+2026.03.17 23:32:01 INFO  no build target found for E:\codedecode\dsa\Trees\ValidateBST.java. Using fallback presentation compiler.
+2026.03.17 23:32:01 INFO  no build target found for E:\codedecode\dsa\Trees\ValidateBST.java. Using fallback presentation compiler.
+2026.03.17 23:32:01 INFO  no build target found for E:\codedecode\dsa\Trees\ValidateBST.java. Using fallback presentation compiler.
+2026.03.17 23:32:01 INFO  no build target found for E:\codedecode\dsa\Trees\ValidateBST.java. Using fallback presentation compiler.
+Mar 17, 2026 11:32:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2284
+2026.03.17 23:32:03 INFO  no build target found for E:\codedecode\dsa\Trees\ValidateBST.java. Using fallback presentation compiler.
+Mar 17, 2026 11:32:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2285
+2026.03.17 23:32:03 INFO  no build target found for E:\codedecode\dsa\Trees\ValidateBST.java. Using fallback presentation compiler.
+2026.03.17 23:32:03 INFO  no build target found for E:\codedecode\dsa\Trees\ValidateBST.java. Using fallback presentation compiler.
+Mar 17, 2026 11:32:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2286
+2026.03.17 23:32:03 INFO  no build target found for E:\codedecode\dsa\Trees\ValidateBST.java. Using fallback presentation compiler.
+Mar 17, 2026 11:32:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2287
+2026.03.17 23:32:03 INFO  no build target found for E:\codedecode\dsa\Trees\ValidateBST.java. Using fallback presentation compiler.
+Mar 17, 2026 11:32:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2288
+2026.03.17 23:32:03 INFO  no build target found for E:\codedecode\dsa\Trees\ValidateBST.java. Using fallback presentation compiler.
+Mar 17, 2026 11:32:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2289
+Mar 17, 2026 11:32:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2290
+Mar 17, 2026 11:32:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2291
+Mar 17, 2026 11:32:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2292
+2026.03.17 23:32:03 INFO  no build target found for E:\codedecode\dsa\Trees\ValidateBST.java. Using fallback presentation compiler.
+2026.03.17 23:32:03 INFO  no build target found for E:\codedecode\dsa\Trees\ValidateBST.java. Using fallback presentation compiler.
+2026.03.17 23:32:03 INFO  no build target found for E:\codedecode\dsa\Trees\ValidateBST.java. Using fallback presentation compiler.
+Mar 17, 2026 11:32:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2293
+2026.03.17 23:32:04 INFO  no build target found for E:\codedecode\dsa\Trees\ValidateBST.java. Using fallback presentation compiler.
+Mar 17, 2026 11:32:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2294
+2026.03.17 23:32:04 INFO  no build target found for E:\codedecode\dsa\Trees\ValidateBST.java. Using fallback presentation compiler.
+Mar 17, 2026 11:32:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2295
+2026.03.17 23:32:04 INFO  no build target found for E:\codedecode\dsa\Trees\ValidateBST.java. Using fallback presentation compiler.
+Mar 17, 2026 11:32:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2296
+2026.03.17 23:32:04 INFO  no build target found for E:\codedecode\dsa\Trees\ValidateBST.java. Using fallback presentation compiler.
+2026.03.17 23:32:04 INFO  no build target found for E:\codedecode\dsa\Trees\ValidateBST.java. Using fallback presentation compiler.
+2026.03.17 23:32:05 INFO  no build target found for E:\codedecode\dsa\Trees\ValidateBST.java. Using fallback presentation compiler.
+2026.03.17 23:32:05 INFO  no build target found for E:\codedecode\dsa\Trees\ValidateBST.java. Using fallback presentation compiler.
+2026.03.17 23:32:07 INFO  no build target found for E:\codedecode\dsa\Trees\ValidateBST.java. Using fallback presentation compiler.
+2026.03.17 23:32:07 INFO  no build target found for E:\codedecode\dsa\Trees\ValidateBST.java. Using fallback presentation compiler.
+2026.03.17 23:32:07 INFO  no build target found for E:\codedecode\dsa\Trees\ValidateBST.java. Using fallback presentation compiler.
+2026.03.17 23:32:07 WARN  no build target for: E:\codedecode\dsa\Trees\ValidateBST.java
+2026.03.17 23:32:07 WARN  no build target for: E:\codedecode\dsa\Trees\ValidateBST.java
+2026.03.17 23:32:08 WARN  no build target for: E:\codedecode\dsa\Trees\ValidateBST.java
+2026.03.17 23:32:08 WARN  no build target for: E:\codedecode\dsa\Trees\ValidateBST.java
+2026.03.17 23:32:08 WARN  no build target for: E:\codedecode\dsa\Trees\ValidateBST.java
+2026.03.17 23:32:08 WARN  no build target for: E:\codedecode\dsa\Trees\ValidateBST.java
+2026.03.17 23:32:28 INFO  no build target found for E:\codedecode\dsa\Trees\ValidateBST.java. Using fallback presentation compiler.
+2026.03.17 23:32:28 INFO  no build target found for E:\codedecode\dsa\Trees\ValidateBST.java. Using fallback presentation compiler.
+2026.03.17 23:32:28 INFO  no build target found for E:\codedecode\dsa\Trees\ValidateBST.java. Using fallback presentation compiler.
+2026.03.17 23:32:28 INFO  no build target found for E:\codedecode\dsa\Trees\ValidateBST.java. Using fallback presentation compiler.
+2026.03.17 23:32:28 INFO  no build target found for E:\codedecode\dsa\Trees\ValidateBST.java. Using fallback presentation compiler.
+2026.03.17 23:32:29 INFO  no build target found for E:\codedecode\dsa\Trees\ValidateBST.java. Using fallback presentation compiler.
+2026.03.17 23:32:29 INFO  no build target found for E:\codedecode\dsa\Trees\ValidateBST.java. Using fallback presentation compiler.
+2026.03.17 23:32:32 WARN  no build target for: E:\codedecode\dsa\Two Pointers\3Sum.java
+2026.03.17 23:32:32 INFO  no build target found for E:\codedecode\dsa\Two Pointers\3Sum.java. Using fallback presentation compiler.
+2026.03.17 23:32:32 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Two%20Pointers/3Sum.java. Output:
+
+2026.03.17 23:32:32 INFO  no build target found for E:\codedecode\dsa\Two Pointers\3Sum.java. Using fallback presentation compiler.
+2026.03.17 23:32:33 INFO  no build target found for E:\codedecode\dsa\Two Pointers\3Sum.java. Using fallback presentation compiler.
+2026.03.17 23:32:34 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Two%20Pointers/3Sum.java. Output:
+
+2026.03.17 23:32:33 INFO  no build target found for E:\codedecode\dsa\Two Pointers\3Sum.java. Using fallback presentation compiler.
+2026.03.17 23:32:33 INFO  no build target found for E:\codedecode\dsa\Two Pointers\3Sum.java. Using fallback presentation compiler.
+2026.03.17 23:32:33 INFO  no build target found for E:\codedecode\dsa\Two Pointers\3Sum.java. Using fallback presentation compiler.
+2026.03.17 23:32:34 INFO  no build target found for E:\codedecode\dsa\Two Pointers\3Sum.java. Using fallback presentation compiler.
+2026.03.17 23:32:34 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Two%20Pointers/3Sum.java. Output:
+
+2026.03.17 23:32:34 INFO  no build target found for E:\codedecode\dsa\Two Pointers\3Sum.java. Using fallback presentation compiler.
+2026.03.17 23:32:34 INFO  no build target found for E:\codedecode\dsa\Two Pointers\3Sum.java. Using fallback presentation compiler.
+2026.03.17 23:32:34 INFO  no build target found for E:\codedecode\dsa\Two Pointers\3Sum.java. Using fallback presentation compiler.
+2026.03.17 23:32:36 INFO  no build target found for E:\codedecode\dsa\Two Pointers\3Sum.java. Using fallback presentation compiler.
+2026.03.17 23:32:36 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Two%20Pointers/3Sum.java. Output:
+
+2026.03.17 23:32:36 INFO  no build target found for E:\codedecode\dsa\Two Pointers\3Sum.java. Using fallback presentation compiler.
+2026.03.17 23:32:36 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Two%20Pointers/3Sum.java. Output:
+
+2026.03.17 23:32:37 INFO  no build target found for E:\codedecode\dsa\Two Pointers\3Sum.java. Using fallback presentation compiler.
+2026.03.17 23:32:37 INFO  no build target found for E:\codedecode\dsa\Two Pointers\3Sum.java. Using fallback presentation compiler.
+2026.03.17 23:32:37 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Two%20Pointers/3Sum.java. Output:
+
+2026.03.17 23:32:40 INFO  no build target found for E:\codedecode\dsa\Two Pointers\3Sum.java. Using fallback presentation compiler.
+2026.03.17 23:32:40 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Two%20Pointers/3Sum.java. Output:
+
+2026.03.17 23:32:41 INFO  no build target found for E:\codedecode\dsa\Two Pointers\3Sum.java. Using fallback presentation compiler.
+2026.03.17 23:32:41 INFO  no build target found for E:\codedecode\dsa\Two Pointers\3Sum.java. Using fallback presentation compiler.
+2026.03.17 23:32:41 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Two%20Pointers/3Sum.java. Output:
+
+2026.03.17 23:32:41 INFO  no build target found for E:\codedecode\dsa\Two Pointers\3Sum.java. Using fallback presentation compiler.
+2026.03.17 23:32:41 INFO  no build target found for E:\codedecode\dsa\Two Pointers\3Sum.java. Using fallback presentation compiler.
+Mar 17, 2026 11:32:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2402
+Mar 17, 2026 11:32:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2403
+2026.03.17 23:32:41 INFO  no build target found for E:\codedecode\dsa\Two Pointers\3Sum.java. Using fallback presentation compiler.
+Mar 17, 2026 11:32:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2404
+2026.03.17 23:32:42 INFO  no build target found for E:\codedecode\dsa\Two Pointers\3Sum.java. Using fallback presentation compiler.
+Mar 17, 2026 11:32:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2405
+2026.03.17 23:32:42 INFO  no build target found for E:\codedecode\dsa\Two Pointers\3Sum.java. Using fallback presentation compiler.
+2026.03.17 23:32:42 INFO  no build target found for E:\codedecode\dsa\Two Pointers\3Sum.java. Using fallback presentation compiler.
+2026.03.17 23:32:42 INFO  no build target found for E:\codedecode\dsa\Two Pointers\3Sum.java. Using fallback presentation compiler.
+Mar 17, 2026 11:32:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2406
+2026.03.17 23:32:42 INFO  no build target found for E:\codedecode\dsa\Two Pointers\3Sum.java. Using fallback presentation compiler.
+Mar 17, 2026 11:32:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2407
+2026.03.17 23:32:43 INFO  no build target found for E:\codedecode\dsa\Two Pointers\3Sum.java. Using fallback presentation compiler.
+Mar 17, 2026 11:32:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2408
+2026.03.17 23:32:43 INFO  no build target found for E:\codedecode\dsa\Two Pointers\3Sum.java. Using fallback presentation compiler.
+Mar 17, 2026 11:32:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2409
+2026.03.17 23:32:43 INFO  no build target found for E:\codedecode\dsa\Two Pointers\3Sum.java. Using fallback presentation compiler.
+Mar 17, 2026 11:32:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2410
+2026.03.17 23:32:43 INFO  no build target found for E:\codedecode\dsa\Two Pointers\3Sum.java. Using fallback presentation compiler.
+2026.03.17 23:32:43 INFO  no build target found for E:\codedecode\dsa\Two Pointers\3Sum.java. Using fallback presentation compiler.
+Mar 17, 2026 11:32:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2411
+2026.03.17 23:32:43 INFO  no build target found for E:\codedecode\dsa\Two Pointers\3Sum.java. Using fallback presentation compiler.
+Mar 17, 2026 11:32:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2413
+2026.03.17 23:32:43 INFO  no build target found for E:\codedecode\dsa\Two Pointers\3Sum.java. Using fallback presentation compiler.
+2026.03.17 23:32:44 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Two%20Pointers/3Sum.java. Output:
+
+2026.03.17 23:32:44 INFO  no build target found for E:\codedecode\dsa\Two Pointers\3Sum.java. Using fallback presentation compiler.
+2026.03.17 23:32:44 INFO  no build target found for E:\codedecode\dsa\Two Pointers\3Sum.java. Using fallback presentation compiler.
+2026.03.17 23:32:45 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Two%20Pointers/3Sum.java. Output:
+
+2026.03.17 23:32:46 INFO  no build target found for E:\codedecode\dsa\Two Pointers\3Sum.java. Using fallback presentation compiler.
+2026.03.17 23:32:46 INFO  Created report: Optional[file:///E:/codedecode/dsa/Two%20Pointers/3Sum.java]
+2026.03.17 23:32:46 INFO  QDox parse error in file:///E:/codedecode/dsa/Two%20Pointers/3Sum.java (full report at: "E:\codedecode\dsa\.metals\.reports\metals-full\2026-03-17\r_qdox-error_23-32-46-505.md")
+2026.03.17 23:32:46 INFO  no build target found for E:\codedecode\dsa\Two Pointers\3Sum.java. Using fallback presentation compiler.
+2026.03.17 23:32:46 INFO  QDox parse error in file:///E:/codedecode/dsa/Two%20Pointers/3Sum.java (full report at: "E:\codedecode\dsa\.metals\.reports\metals-full\2026-03-17\r_qdox-error_23-32-46-505.md")
+2026.03.17 23:32:46 INFO  no build target found for E:\codedecode\dsa\Two Pointers\3Sum.java. Using fallback presentation compiler.
+2026.03.17 23:32:46 WARN  no build target for: E:\codedecode\dsa\Two Pointers\3Sum.java
+2026.03.17 23:32:46 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Two%20Pointers/3Sum.java. Output:
+
+2026.03.17 23:32:46 INFO  no build target found for E:\codedecode\dsa\Two Pointers\3Sum.java. Using fallback presentation compiler.
+Mar 17, 2026 11:32:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2445
+Mar 17, 2026 11:32:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2447
+Mar 17, 2026 11:32:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2450
+Mar 17, 2026 11:32:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2451
+Mar 17, 2026 11:32:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2453
+Mar 17, 2026 11:32:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2455
+2026.03.17 23:32:49 INFO  no build target found for E:\codedecode\dsa\Two Pointers\3Sum.java. Using fallback presentation compiler.
+2026.03.17 23:32:50 WARN  no build target for: E:\codedecode\dsa\Two Pointers\3Sum.java
+2026.03.17 23:32:52 WARN  no build target for: E:\codedecode\dsa\Two Pointers\ContainerWater.java
+2026.03.17 23:32:52 INFO  no build target found for E:\codedecode\dsa\Two Pointers\ContainerWater.java. Using fallback presentation compiler.
+2026.03.17 23:32:52 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Two%20Pointers/ContainerWater.java. Output:
+
+2026.03.17 23:32:52 INFO  no build target found for E:\codedecode\dsa\Two Pointers\ContainerWater.java. Using fallback presentation compiler.
+2026.03.17 23:32:53 INFO  no build target found for E:\codedecode\dsa\Two Pointers\ContainerWater.java. Using fallback presentation compiler.
+2026.03.17 23:32:53 INFO  no build target found for E:\codedecode\dsa\Two Pointers\ContainerWater.java. Using fallback presentation compiler.
+2026.03.17 23:32:55 INFO  no build target found for E:\codedecode\dsa\Two Pointers\ContainerWater.java. Using fallback presentation compiler.
+2026.03.17 23:32:55 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Two%20Pointers/ContainerWater.java. Output:
+
+2026.03.17 23:32:56 INFO  no build target found for E:\codedecode\dsa\Two Pointers\ContainerWater.java. Using fallback presentation compiler.
+2026.03.17 23:32:56 INFO  no build target found for E:\codedecode\dsa\Two Pointers\ContainerWater.java. Using fallback presentation compiler.
+2026.03.17 23:32:56 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Two%20Pointers/ContainerWater.java. Output:
+
+2026.03.17 23:32:56 INFO  no build target found for E:\codedecode\dsa\Two Pointers\ContainerWater.java. Using fallback presentation compiler.
+2026.03.17 23:32:56 INFO  no build target found for E:\codedecode\dsa\Two Pointers\ContainerWater.java. Using fallback presentation compiler.
+Mar 17, 2026 11:32:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2491
+2026.03.17 23:32:56 INFO  no build target found for E:\codedecode\dsa\Two Pointers\ContainerWater.java. Using fallback presentation compiler.
+Mar 17, 2026 11:32:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2493
+2026.03.17 23:32:56 INFO  no build target found for E:\codedecode\dsa\Two Pointers\ContainerWater.java. Using fallback presentation compiler.
+2026.03.17 23:32:56 INFO  no build target found for E:\codedecode\dsa\Two Pointers\ContainerWater.java. Using fallback presentation compiler.
+Mar 17, 2026 11:32:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2494
+2026.03.17 23:32:57 INFO  no build target found for E:\codedecode\dsa\Two Pointers\ContainerWater.java. Using fallback presentation compiler.
+Mar 17, 2026 11:32:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2496
+2026.03.17 23:32:57 INFO  no build target found for E:\codedecode\dsa\Two Pointers\ContainerWater.java. Using fallback presentation compiler.
+Mar 17, 2026 11:32:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2497
+2026.03.17 23:32:57 INFO  no build target found for E:\codedecode\dsa\Two Pointers\ContainerWater.java. Using fallback presentation compiler.
+2026.03.17 23:32:57 INFO  no build target found for E:\codedecode\dsa\Two Pointers\ContainerWater.java. Using fallback presentation compiler.
+Mar 17, 2026 11:32:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2499
+2026.03.17 23:32:57 INFO  no build target found for E:\codedecode\dsa\Two Pointers\ContainerWater.java. Using fallback presentation compiler.
+2026.03.17 23:32:57 INFO  no build target found for E:\codedecode\dsa\Two Pointers\ContainerWater.java. Using fallback presentation compiler.
+2026.03.17 23:32:58 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Two%20Pointers/ContainerWater.java. Output:
+
+2026.03.17 23:33:00 INFO  no build target found for E:\codedecode\dsa\Two Pointers\ContainerWater.java. Using fallback presentation compiler.
+2026.03.17 23:33:00 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Two%20Pointers/ContainerWater.java. Output:
+
+2026.03.17 23:33:00 INFO  no build target found for E:\codedecode\dsa\Two Pointers\ContainerWater.java. Using fallback presentation compiler.
+2026.03.17 23:33:00 INFO  no build target found for E:\codedecode\dsa\Two Pointers\ContainerWater.java. Using fallback presentation compiler.
+2026.03.17 23:33:01 INFO  no build target found for E:\codedecode\dsa\Two Pointers\ContainerWater.java. Using fallback presentation compiler.
+2026.03.17 23:33:01 WARN  no build target for: E:\codedecode\dsa\Two Pointers\ContainerWater.java
+2026.03.17 23:33:00 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Two%20Pointers/ContainerWater.java. Output:
+
+2026.03.17 23:33:01 INFO  no build target found for E:\codedecode\dsa\Two Pointers\ContainerWater.java. Using fallback presentation compiler.
+2026.03.17 23:33:05 INFO  no build target found for E:\codedecode\dsa\Two Pointers\ContainerWater.java. Using fallback presentation compiler.
+2026.03.17 23:33:05 INFO  no build target found for E:\codedecode\dsa\Two Pointers\ContainerWater.java. Using fallback presentation compiler.
+2026.03.17 23:33:05 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/Two%20Pointers/ContainerWater.java. Output:
+
+2026.03.17 23:33:05 WARN  no build target for: E:\codedecode\dsa\Two Pointers\ContainerWater.java
+2026.03.17 23:33:05 WARN  no build target for: E:\codedecode\dsa\Two Pointers\ContainerWater.java
+2026.03.17 23:33:06 WARN  no build target for: E:\codedecode\dsa\Two Pointers\ContainerWater.java
+2026.03.17 23:33:06 WARN  no build target for: E:\codedecode\dsa\Two Pointers\ContainerWater.java
+2026.03.17 23:33:05 WARN  no build target for: E:\codedecode\dsa\Two Pointers\ContainerWater.java
+2026.03.17 23:33:06 WARN  no build target for: E:\codedecode\dsa\Two Pointers\ContainerWater.java
+2026.03.17 23:33:28 INFO  no build target found for E:\codedecode\dsa\Two Pointers\ContainerWater.java. Using fallback presentation compiler.
+2026.03.17 23:33:28 WARN  no build target for: E:\codedecode\dsa\Two Pointers\ContainerWater.java
+2026.03.17 23:33:28 INFO  no build target found for E:\codedecode\dsa\Two Pointers\ContainerWater.java. Using fallback presentation compiler.
+2026.03.17 23:33:28 INFO  no build target found for E:\codedecode\dsa\Two Pointers\ContainerWater.java. Using fallback presentation compiler.
+2026.03.17 23:33:33 INFO  no build target found for E:\codedecode\dsa\Two Pointers\ContainerWater.java. Using fallback presentation compiler.
+2026.03.17 23:33:33 INFO  no build target found for E:\codedecode\dsa\Two Pointers\ContainerWater.java. Using fallback presentation compiler.
+2026.03.17 23:33:33 INFO  no build target found for E:\codedecode\dsa\Two Pointers\ContainerWater.java. Using fallback presentation compiler.
+2026.03.17 23:33:35 INFO  no build target found for E:\codedecode\dsa\Two Pointers\ContainerWater.java. Using fallback presentation compiler.
+2026.03.17 23:35:08 INFO  no build target found for E:\codedecode\dsa\Two Pointers\3Sum.java. Using fallback presentation compiler.
+2026.03.17 23:35:08 WARN  no build target for: E:\codedecode\dsa\Two Pointers\3Sum.java
+2026.03.17 23:35:08 INFO  no build target found for E:\codedecode\dsa\Two Pointers\3Sum.java. Using fallback presentation compiler.
+2026.03.17 23:35:08 INFO  no build target found for E:\codedecode\dsa\Two Pointers\3Sum.java. Using fallback presentation compiler.
+2026.03.17 23:35:09 INFO  no build target found for E:\codedecode\dsa\Two Pointers\3Sum.java. Using fallback presentation compiler.
+2026.03.17 23:35:09 INFO  no build target found for E:\codedecode\dsa\Two Pointers\3Sum.java. Using fallback presentation compiler.
+2026.03.17 23:35:14 INFO  no build target found for E:\codedecode\dsa\Two Pointers\3Sum.java. Using fallback presentation compiler.
+2026.03.17 23:35:16 INFO  no build target found for E:\codedecode\dsa\Trees\ValidateBST.java. Using fallback presentation compiler.
+2026.03.17 23:35:16 WARN  no build target for: E:\codedecode\dsa\Trees\ValidateBST.java
+2026.03.17 23:35:16 INFO  no build target found for E:\codedecode\dsa\Trees\ValidateBST.java. Using fallback presentation compiler.
+2026.03.17 23:35:16 INFO  no build target found for E:\codedecode\dsa\Trees\ValidateBST.java. Using fallback presentation compiler.
+2026.03.17 23:35:21 INFO  no build target found for E:\codedecode\dsa\Trees\ValidateBST.java. Using fallback presentation compiler.
+2026.03.17 23:35:36 INFO  no build target found for E:\codedecode\dsa\Trees\ValidateBST.java. Using fallback presentation compiler.
+2026.03.17 23:35:36 INFO  no build target found for E:\codedecode\dsa\Trees\ValidateBST.java. Using fallback presentation compiler.
+2026.03.17 23:37:55 INFO  no build target found for E:\codedecode\dsa\Two Pointers\3Sum.java. Using fallback presentation compiler.
+2026.03.17 23:37:55 WARN  no build target for: E:\codedecode\dsa\Two Pointers\3Sum.java
+2026.03.17 23:37:55 INFO  no build target found for E:\codedecode\dsa\Two Pointers\3Sum.java. Using fallback presentation compiler.
+2026.03.17 23:37:56 INFO  no build target found for E:\codedecode\dsa\Two Pointers\3Sum.java. Using fallback presentation compiler.
+2026.03.17 23:37:56 INFO  no build target found for E:\codedecode\dsa\Two Pointers\3Sum.java. Using fallback presentation compiler.
+2026.03.17 23:37:56 INFO  no build target found for E:\codedecode\dsa\Two Pointers\3Sum.java. Using fallback presentation compiler.
+2026.03.17 23:37:56 INFO  no build target found for E:\codedecode\dsa\Two Pointers\3Sum.java. Using fallback presentation compiler.
+2026.03.17 23:37:56 INFO  no build target found for E:\codedecode\dsa\Two Pointers\3Sum.java. Using fallback presentation compiler.
+2026.03.17 23:38:01 INFO  no build target found for E:\codedecode\dsa\Two Pointers\3Sum.java. Using fallback presentation compiler.
+2026.03.17 23:38:01 INFO  no build target found for E:\codedecode\dsa\Two Pointers\3Sum.java. Using fallback presentation compiler.
+2026.03.17 23:38:01 INFO  no build target found for E:\codedecode\dsa\Two Pointers\3Sum.java. Using fallback presentation compiler.
