@@ -1597,3 +1597,633 @@ WARNING: Unmatched cancel notification for request id 2499
 2026.03.17 23:38:01 INFO  no build target found for E:\codedecode\dsa\Two Pointers\3Sum.java. Using fallback presentation compiler.
 2026.03.17 23:38:01 INFO  no build target found for E:\codedecode\dsa\Two Pointers\3Sum.java. Using fallback presentation compiler.
 2026.03.17 23:38:01 INFO  no build target found for E:\codedecode\dsa\Two Pointers\3Sum.java. Using fallback presentation compiler.
+2026.03.17 23:42:29 INFO  no build target found for E:\codedecode\dsa\Two Pointers\3Sum.java. Using fallback presentation compiler.
+2026.03.17 23:42:50 INFO  no build target found for E:\codedecode\dsa\Two Pointers\3Sum.java. Using fallback presentation compiler.
+2026.03.17 23:42:50 INFO  no build target found for E:\codedecode\dsa\Two Pointers\3Sum.java. Using fallback presentation compiler.
+2026.03.17 23:44:40 INFO  no build target found for E:\codedecode\dsa\Two Pointers\3Sum.java. Using fallback presentation compiler.
+2026.03.17 23:44:40 INFO  no build target found for E:\codedecode\dsa\Two Pointers\3Sum.java. Using fallback presentation compiler.
+2026.03.17 23:50:46 INFO  no build target found for E:\codedecode\dsa\Two Pointers\3Sum.java. Using fallback presentation compiler.
+2026.03.17 23:51:59 WARN  no build target for: E:\codedecode\dsa\SOLID_Principles\SRP\User.java
+2026.03.17 23:51:59 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/SOLID_Principles/SRP/User.java. Output:
+
+2026.03.17 23:52:06 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SRP\User.java. Using fallback presentation compiler.
+2026.03.17 23:52:06 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SRP\User.java. Using fallback presentation compiler.
+2026.03.17 23:52:07 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/SOLID_Principles/SRP/User.java. Output:
+
+2026.03.17 23:52:08 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SRP\User.java. Using fallback presentation compiler.
+2026.03.17 23:52:10 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SRP\User.java. Using fallback presentation compiler.
+2026.03.17 23:52:36 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SRP\User.java. Using fallback presentation compiler.
+2026.03.17 23:52:36 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SRP\User.java. Using fallback presentation compiler.
+2026.03.17 23:52:36 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SRP\User.java. Using fallback presentation compiler.
+2026.03.17 23:52:36 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/SOLID_Principles/SRP/User.java. Output:
+
+2026.03.17 23:52:37 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SRP\User.java. Using fallback presentation compiler.
+2026.03.17 23:52:37 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SRP\User.java. Using fallback presentation compiler.
+2026.03.17 23:52:38 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/SOLID_Principles/SRP/User.java. Output:
+
+2026.03.17 23:52:37 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SRP\User.java. Using fallback presentation compiler.
+2026.03.17 23:52:38 WARN  no build target for: E:\codedecode\dsa\SOLID_Principles\SRP\User.java
+2026.03.17 23:52:37 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SRP\User.java. Using fallback presentation compiler.
+2026.03.17 23:52:48 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SRP\User.java. Using fallback presentation compiler.
+2026.03.17 23:52:48 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SRP\User.java. Using fallback presentation compiler.
+2026.03.17 23:52:49 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SRP\User.java. Using fallback presentation compiler.
+2026.03.17 23:52:49 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SRP\User.java. Using fallback presentation compiler.
+2026.03.17 23:52:49 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SRP\User.java. Using fallback presentation compiler.
+2026.03.17 23:52:49 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SRP\User.java. Using fallback presentation compiler.
+2026.03.17 23:52:50 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SRP\User.java. Using fallback presentation compiler.
+2026.03.17 23:52:50 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SRP\User.java. Using fallback presentation compiler.
+2026.03.17 23:52:50 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SRP\User.java. Using fallback presentation compiler.
+2026.03.17 23:52:50 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SRP\User.java. Using fallback presentation compiler.
+2026.03.17 23:52:53 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SRP\User.java. Using fallback presentation compiler.
+2026.03.17 23:52:53 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SRP\User.java. Using fallback presentation compiler.
+2026.03.17 23:52:53 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SRP\User.java. Using fallback presentation compiler.
+2026.03.17 23:52:53 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SRP\User.java. Using fallback presentation compiler.
+2026.03.17 23:52:53 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SRP\User.java. Using fallback presentation compiler.
+2026.03.17 23:52:53 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SRP\User.java. Using fallback presentation compiler.
+2026.03.17 23:52:53 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SRP\User.java. Using fallback presentation compiler.
+2026.03.17 23:52:54 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SRP\User.java. Using fallback presentation compiler.
+2026.03.17 23:52:54 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SRP\User.java. Using fallback presentation compiler.
+2026.03.17 23:52:54 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SRP\User.java. Using fallback presentation compiler.
+2026.03.17 23:52:56 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SRP\User.java. Using fallback presentation compiler.
+2026.03.17 23:52:56 WARN  no build target for: E:\codedecode\dsa\SOLID_Principles\SRP\User.java
+2026.03.17 23:52:56 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SRP\User.java. Using fallback presentation compiler.
+2026.03.17 23:52:58 WARN  no build target for: E:\codedecode\dsa\SOLID_Principles\SRP\User.java
+2026.03.17 23:52:59 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SRP\User.java. Using fallback presentation compiler.
+2026.03.17 23:52:59 WARN  no build target for: E:\codedecode\dsa\SOLID_Principles\SRP\User.java
+2026.03.17 23:53:01 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SRP\User.java. Using fallback presentation compiler.
+2026.03.17 23:53:01 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SRP\User.java. Using fallback presentation compiler.
+2026.03.17 23:53:02 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SRP\User.java. Using fallback presentation compiler.
+2026.03.17 23:53:02 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SRP\User.java. Using fallback presentation compiler.
+2026.03.17 23:53:02 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SRP\User.java. Using fallback presentation compiler.
+2026.03.17 23:53:02 WARN  no build target for: E:\codedecode\dsa\SOLID_Principles\SRP\User.java
+2026.03.17 23:53:02 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SRP\User.java. Using fallback presentation compiler.
+2026.03.17 23:53:02 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SRP\User.java. Using fallback presentation compiler.
+2026.03.17 23:53:23 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SRP\User.java. Using fallback presentation compiler.
+2026.03.17 23:53:23 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SRP\User.java. Using fallback presentation compiler.
+2026.03.17 23:53:30 INFO  no build target found for e:\codedecode\dsa\SOLID_Principles\SRP\User.java. Using fallback presentation compiler.
+2026.03.17 23:53:30 WARN  no build target for: E:\codedecode\dsa\SOLID_Principles\User.java
+2026.03.17 23:53:30 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\User.java. Using fallback presentation compiler.
+2026.03.17 23:53:30 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\User.java. Using fallback presentation compiler.
+2026.03.17 23:53:30 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\User.java. Using fallback presentation compiler.
+2026.03.17 23:53:43 INFO  no build target found for e:\codedecode\dsa\SOLID_Principles\User.java. Using fallback presentation compiler.
+2026.03.17 23:53:43 WARN  no build target for: E:\codedecode\dsa\SOLID_Principles\SOLID.java
+2026.03.17 23:53:43 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:53:43 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:53:43 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:53:46 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:53:46 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:53:46 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:53:48 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:53:48 WARN  no build target for: E:\codedecode\dsa\SOLID_Principles\SOLID.java
+2026.03.17 23:53:48 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:53:49 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:53:49 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:53:50 WARN  no build target for: E:\codedecode\dsa\SOLID_Principles\SOLID.java
+2026.03.17 23:53:57 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:53:57 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:53:57 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:53:57 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:53:57 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:53:58 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:53:58 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+Mar 17, 2026 11:54:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2845
+Mar 17, 2026 11:54:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2854
+Mar 17, 2026 11:54:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2855
+2026.03.17 23:54:02 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:54:02 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:54:04 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:54:04 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:54:05 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:54:05 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:54:06 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:54:06 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:54:06 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:54:06 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:54:09 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:54:11 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:54:11 WARN  no build target for: E:\codedecode\dsa\SOLID_Principles\SOLID.java
+2026.03.17 23:54:11 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:54:12 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:54:13 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:54:13 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:54:13 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:54:14 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:54:14 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:54:14 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:54:18 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:54:18 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:54:18 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:54:20 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:54:20 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:54:20 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:54:20 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:54:20 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:54:22 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:54:22 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:54:22 WARN  no build target for: E:\codedecode\dsa\SOLID_Principles\SOLID.java
+2026.03.17 23:54:26 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:54:26 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:54:26 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:54:26 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:54:27 WARN  no build target for: E:\codedecode\dsa\SOLID_Principles\SOLID.java
+2026.03.17 23:54:27 WARN  no build target for: E:\codedecode\dsa\SOLID_Principles\SOLID.java
+2026.03.17 23:54:27 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:54:27 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:54:27 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:54:27 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:54:29 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:54:29 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:54:29 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:54:30 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:54:30 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:54:31 WARN  no build target for: E:\codedecode\dsa\SOLID_Principles\SOLID.java
+2026.03.17 23:54:32 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:54:32 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:54:33 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:54:33 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:54:34 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:54:34 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:54:35 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+Mar 17, 2026 11:54:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3025
+2026.03.17 23:54:37 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:54:37 WARN  no build target for: E:\codedecode\dsa\SOLID_Principles\SOLID.java
+2026.03.17 23:55:04 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:55:05 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:55:06 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:55:07 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:55:07 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:55:07 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:55:07 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:55:07 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:55:09 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:55:09 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:55:10 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:55:10 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:55:11 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:55:11 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:55:12 WARN  no build target for: E:\codedecode\dsa\SOLID_Principles\SOLID.java
+2026.03.17 23:55:11 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:55:13 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:55:14 WARN  no build target for: E:\codedecode\dsa\SOLID_Principles\SOLID.java
+2026.03.17 23:55:13 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:55:15 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:55:15 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:55:15 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:55:16 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:55:16 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:55:16 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:55:16 WARN  no build target for: E:\codedecode\dsa\SOLID_Principles\SOLID.java
+2026.03.17 23:55:17 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:55:17 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:55:17 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:55:17 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:55:18 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:55:18 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:55:18 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:55:18 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:55:19 WARN  no build target for: E:\codedecode\dsa\SOLID_Principles\SOLID.java
+2026.03.17 23:55:20 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:55:20 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:55:20 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:55:21 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:55:21 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:55:21 WARN  no build target for: E:\codedecode\dsa\SOLID_Principles\SOLID.java
+2026.03.17 23:55:34 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:55:34 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:55:34 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:55:34 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:55:35 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:55:35 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:55:36 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:55:36 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:55:38 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:55:38 WARN  no build target for: E:\codedecode\dsa\SOLID_Principles\SOLID.java
+2026.03.17 23:55:43 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:55:43 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:55:43 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:55:44 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:55:44 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:55:44 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:55:44 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:55:44 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:55:44 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:55:45 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:55:45 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:55:45 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:55:45 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:55:47 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:55:47 WARN  no build target for: E:\codedecode\dsa\SOLID_Principles\SOLID.java
+2026.03.17 23:55:47 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:55:48 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:55:48 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:55:48 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:55:48 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:55:49 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:55:49 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+Mar 17, 2026 11:55:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3266
+2026.03.17 23:55:49 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:55:49 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:55:50 WARN  no build target for: E:\codedecode\dsa\SOLID_Principles\SOLID.java
+2026.03.17 23:55:50 WARN  no build target for: E:\codedecode\dsa\SOLID_Principles\SOLID.java
+2026.03.17 23:55:50 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:55:50 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:55:50 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:55:52 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:55:52 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:55:52 WARN  no build target for: E:\codedecode\dsa\SOLID_Principles\SOLID.java
+2026.03.17 23:55:57 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:55:57 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:55:57 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:55:57 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+Mar 17, 2026 11:55:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3305
+2026.03.17 23:55:59 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:55:59 WARN  no build target for: E:\codedecode\dsa\SOLID_Principles\SOLID.java
+2026.03.17 23:56:04 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:56:04 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:56:05 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:56:05 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:56:05 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:56:05 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:56:05 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:56:06 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:56:06 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:56:06 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:56:08 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:56:08 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:56:09 WARN  no build target for: E:\codedecode\dsa\SOLID_Principles\SOLID.java
+2026.03.17 23:56:11 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:56:11 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:56:11 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:56:12 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:56:12 WARN  no build target for: E:\codedecode\dsa\SOLID_Principles\SOLID.java
+2026.03.17 23:56:13 INFO  time: code lens generation in 1.21s
+2026.03.17 23:56:16 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:56:17 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:56:17 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:56:17 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:56:18 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:56:19 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:56:19 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:56:21 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:56:22 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:56:22 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:56:23 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:56:23 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:56:26 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:56:26 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:56:27 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:56:27 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:56:28 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:56:28 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:56:29 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:56:29 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:56:29 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:56:31 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:56:31 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:56:31 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:56:35 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:56:35 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:56:35 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:56:39 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:56:41 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:56:41 INFO  no build target found for E:\codedecode\dsa\SOLID_Principles\SOLID.java. Using fallback presentation compiler.
+2026.03.17 23:56:41 WARN  no build target for: E:\codedecode\dsa\SOLID_Principles\SOLID.java
+2026.03.17 23:57:39 WARN  no build target for: E:\codedecode\dsa\OOP\All-in-One.java
+2026.03.17 23:57:39 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/OOP/All-in-One.java. Output:
+
+2026.03.17 23:57:53 INFO  no build target found for E:\codedecode\dsa\OOP\All-in-One.java. Using fallback presentation compiler.
+2026.03.17 23:57:53 INFO  no build target found for E:\codedecode\dsa\OOP\All-in-One.java. Using fallback presentation compiler.
+2026.03.17 23:57:53 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/OOP/All-in-One.java. Output:
+
+2026.03.17 23:57:53 INFO  no build target found for E:\codedecode\dsa\OOP\All-in-One.java. Using fallback presentation compiler.
+2026.03.17 23:57:53 INFO  no build target found for E:\codedecode\dsa\OOP\All-in-One.java. Using fallback presentation compiler.
+2026.03.17 23:57:53 INFO  no build target found for E:\codedecode\dsa\OOP\All-in-One.java. Using fallback presentation compiler.
+2026.03.17 23:57:53 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/OOP/All-in-One.java. Output:
+
+2026.03.17 23:57:54 INFO  no build target found for E:\codedecode\dsa\OOP\All-in-One.java. Using fallback presentation compiler.
+2026.03.17 23:57:54 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/OOP/All-in-One.java. Output:
+
+2026.03.17 23:57:54 INFO  no build target found for E:\codedecode\dsa\OOP\All-in-One.java. Using fallback presentation compiler.
+2026.03.17 23:57:54 INFO  no build target found for E:\codedecode\dsa\OOP\All-in-One.java. Using fallback presentation compiler.
+2026.03.17 23:57:55 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/OOP/All-in-One.java. Output:
+
+2026.03.17 23:57:55 INFO  no build target found for E:\codedecode\dsa\OOP\All-in-One.java. Using fallback presentation compiler.
+2026.03.17 23:57:56 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/OOP/All-in-One.java. Output:
+
+2026.03.17 23:57:55 INFO  no build target found for E:\codedecode\dsa\OOP\All-in-One.java. Using fallback presentation compiler.
+2026.03.17 23:57:56 WARN  no build target for: E:\codedecode\dsa\OOP\All-in-One.java
+2026.03.17 23:57:56 INFO  Created report: Optional[file:///E:/codedecode/dsa/OOP/All-in-One.java]
+2026.03.17 23:57:56 INFO  QDox parse error in file:///E:/codedecode/dsa/OOP/All-in-One.java (full report at: "E:\codedecode\dsa\.metals\.reports\metals-full\2026-03-17\r_qdox-error_23-57-56-428.md")
+2026.03.17 23:57:56 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/OOP/All-in-One.java. Output:
+
+2026.03.17 23:57:57 INFO  no build target found for E:\codedecode\dsa\OOP\All-in-One.java. Using fallback presentation compiler.
+2026.03.17 23:57:57 INFO  no build target found for E:\codedecode\dsa\OOP\All-in-One.java. Using fallback presentation compiler.
+2026.03.17 23:57:58 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/OOP/All-in-One.java. Output:
+
+2026.03.17 23:57:57 INFO  no build target found for E:\codedecode\dsa\OOP\All-in-One.java. Using fallback presentation compiler.
+2026.03.17 23:57:58 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/OOP/All-in-One.java. Output:
+
+2026.03.17 23:58:00 INFO  no build target found for E:\codedecode\dsa\OOP\All-in-One.java. Using fallback presentation compiler.
+2026.03.17 23:58:00 INFO  no build target found for E:\codedecode\dsa\OOP\All-in-One.java. Using fallback presentation compiler.
+2026.03.17 23:58:00 INFO  no build target found for E:\codedecode\dsa\OOP\All-in-One.java. Using fallback presentation compiler.
+2026.03.17 23:58:02 INFO  no build target found for E:\codedecode\dsa\OOP\All-in-One.java. Using fallback presentation compiler.
+2026.03.17 23:58:02 INFO  no build target found for E:\codedecode\dsa\OOP\All-in-One.java. Using fallback presentation compiler.
+2026.03.17 23:58:02 INFO  no build target found for E:\codedecode\dsa\OOP\All-in-One.java. Using fallback presentation compiler.
+2026.03.17 23:58:03 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/OOP/All-in-One.java. Output:
+
+2026.03.17 23:58:03 WARN  no build target for: E:\codedecode\dsa\OOP\All-in-One.java
+2026.03.17 23:58:03 INFO  QDox parse error in file:///E:/codedecode/dsa/OOP/All-in-One.java (full report at: "E:\codedecode\dsa\.metals\.reports\metals-full\2026-03-17\r_qdox-error_23-57-56-428.md")
+2026.03.17 23:58:09 INFO  no build target found for E:\codedecode\dsa\OOP\All-in-One.java. Using fallback presentation compiler.
+2026.03.17 23:58:09 INFO  no build target found for E:\codedecode\dsa\OOP\All-in-One.java. Using fallback presentation compiler.
+2026.03.17 23:58:09 INFO  no build target found for E:\codedecode\dsa\OOP\All-in-One.java. Using fallback presentation compiler.
+2026.03.17 23:58:09 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/OOP/All-in-One.java. Output:
+
+2026.03.17 23:58:09 INFO  no build target found for E:\codedecode\dsa\OOP\All-in-One.java. Using fallback presentation compiler.
+2026.03.17 23:58:09 INFO  no build target found for E:\codedecode\dsa\OOP\All-in-One.java. Using fallback presentation compiler.
+2026.03.17 23:58:10 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/OOP/All-in-One.java. Output:
+
+2026.03.17 23:58:11 INFO  no build target found for E:\codedecode\dsa\OOP\All-in-One.java. Using fallback presentation compiler.
+2026.03.17 23:58:11 WARN  no build target for: E:\codedecode\dsa\OOP\All-in-One.java
+2026.03.17 23:58:23 INFO  no build target found for E:\codedecode\dsa\OOP\All-in-One.java. Using fallback presentation compiler.
+2026.03.17 23:58:24 INFO  no build target found for E:\codedecode\dsa\OOP\All-in-One.java. Using fallback presentation compiler.
+2026.03.17 23:58:25 INFO  no build target found for E:\codedecode\dsa\OOP\All-in-One.java. Using fallback presentation compiler.
+2026.03.17 23:58:25 INFO  no build target found for E:\codedecode\dsa\OOP\All-in-One.java. Using fallback presentation compiler.
+2026.03.17 23:58:25 INFO  no build target found for E:\codedecode\dsa\OOP\All-in-One.java. Using fallback presentation compiler.
+2026.03.17 23:58:25 INFO  no build target found for E:\codedecode\dsa\OOP\All-in-One.java. Using fallback presentation compiler.
+2026.03.17 23:58:26 INFO  no build target found for E:\codedecode\dsa\OOP\All-in-One.java. Using fallback presentation compiler.
+2026.03.17 23:58:26 INFO  no build target found for E:\codedecode\dsa\OOP\All-in-One.java. Using fallback presentation compiler.
+2026.03.17 23:58:26 INFO  no build target found for E:\codedecode\dsa\OOP\All-in-One.java. Using fallback presentation compiler.
+2026.03.17 23:58:26 INFO  no build target found for E:\codedecode\dsa\OOP\All-in-One.java. Using fallback presentation compiler.
+2026.03.17 23:58:27 INFO  no build target found for E:\codedecode\dsa\OOP\All-in-One.java. Using fallback presentation compiler.
+2026.03.17 23:58:27 INFO  no build target found for E:\codedecode\dsa\OOP\All-in-One.java. Using fallback presentation compiler.
+2026.03.17 23:58:27 INFO  no build target found for E:\codedecode\dsa\OOP\All-in-One.java. Using fallback presentation compiler.
+2026.03.17 23:58:29 INFO  no build target found for E:\codedecode\dsa\OOP\All-in-One.java. Using fallback presentation compiler.
+2026.03.17 23:58:29 WARN  no build target for: E:\codedecode\dsa\OOP\All-in-One.java
+2026.03.17 23:58:29 WARN  no build target for: E:\codedecode\dsa\OOP\All-in-One.java
+2026.03.17 23:58:31 INFO  no build target found for E:\codedecode\dsa\OOP\All-in-One.java. Using fallback presentation compiler.
+2026.03.17 23:58:31 INFO  no build target found for E:\codedecode\dsa\OOP\All-in-One.java. Using fallback presentation compiler.
+2026.03.17 23:58:32 WARN  no build target for: E:\codedecode\dsa\OOP\All-in-One.java
+2026.03.17 23:58:42 INFO  no build target found for E:\codedecode\dsa\OOP\All-in-One.java. Using fallback presentation compiler.
+2026.03.17 23:58:44 INFO  no build target found for E:\codedecode\dsa\OOP\All-in-One.java. Using fallback presentation compiler.
+2026.03.17 23:58:44 INFO  no build target found for E:\codedecode\dsa\OOP\All-in-One.java. Using fallback presentation compiler.
+2026.03.17 23:58:44 INFO  no build target found for E:\codedecode\dsa\OOP\All-in-One.java. Using fallback presentation compiler.
+2026.03.17 23:58:46 INFO  no build target found for E:\codedecode\dsa\OOP\All-in-One.java. Using fallback presentation compiler.
+2026.03.17 23:58:46 INFO  no build target found for E:\codedecode\dsa\OOP\All-in-One.java. Using fallback presentation compiler.
+2026.03.17 23:58:46 INFO  no build target found for E:\codedecode\dsa\OOP\All-in-One.java. Using fallback presentation compiler.
+2026.03.17 23:58:48 INFO  no build target found for E:\codedecode\dsa\OOP\All-in-One.java. Using fallback presentation compiler.
+2026.03.17 23:58:48 INFO  no build target found for E:\codedecode\dsa\OOP\All-in-One.java. Using fallback presentation compiler.
+2026.03.17 23:58:48 INFO  no build target found for E:\codedecode\dsa\OOP\All-in-One.java. Using fallback presentation compiler.
+2026.03.17 23:58:50 INFO  time: code lens generation in 1.38s
+2026.03.17 23:58:50 INFO  no build target found for E:\codedecode\dsa\OOP\All-in-One.java. Using fallback presentation compiler.
+2026.03.17 23:58:50 INFO  no build target found for E:\codedecode\dsa\OOP\All-in-One.java. Using fallback presentation compiler.
+2026.03.17 23:58:53 INFO  no build target found for E:\codedecode\dsa\OOP\All-in-One.java. Using fallback presentation compiler.
+2026.03.17 23:58:55 WARN  High memory usage detected: 100% (2048 MB / 2048 MB)
+Mar 17, 2026 11:58:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3737
+Mar 17, 2026 11:58:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3736
+Mar 17, 2026 11:58:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3740
+2026.03.17 23:58:57 INFO  no build target found for E:\codedecode\dsa\OOP\All-in-One.java. Using fallback presentation compiler.
+2026.03.17 23:59:00 INFO  no build target found for E:\codedecode\dsa\OOP\All-in-One.java. Using fallback presentation compiler.
+Exception in thread "pool-1-thread-150" Exception in thread "pool-1-thread-152" java.lang.OutOfMemoryError: Java heap space
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor$.findComments$1(JavaFoldingRangeExtractor.scala:149)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor$.findComments(JavaFoldingRangeExtractor.scala:160)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor$.extract(JavaFoldingRangeExtractor.scala:180)
+	at scala.meta.internal.parsing.FoldingRangeProvider.$anonfun$getRangedForJava$2(FoldingRangeProvider.scala:52)
+	at scala.meta.internal.parsing.FoldingRangeProvider$$Lambda/0x00000000b065dcf0.apply(Unknown Source)
+	at scala.Option$WithFilter.map(Option.scala:242)
+	at scala.meta.internal.parsing.FoldingRangeProvider.getRangedForJava(FoldingRangeProvider.scala:48)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$foldingRange$3(MetalsLspService.scala:1262)
+	at scala.meta.internal.metals.MetalsLspService$$Lambda/0x00000000b065cf90.apply(Unknown Source)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:691)
+	at scala.concurrent.Future$$$Lambda/0x00000000b01422f8.apply(Unknown Source)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:500)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.runWith(Thread.java:1487)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+java.lang.OutOfMemoryError: Java heap space
+	at java.base/sun.nio.fs.WindowsNativeDispatcher.FindFirstFile0(Native Method)
+	at java.base/sun.nio.fs.WindowsNativeDispatcher.FindFirstFile(WindowsNativeDispatcher.java:182)
+	at java.base/sun.nio.fs.WindowsLinkSupport.getRealPath(WindowsLinkSupport.java:255)
+	at java.base/sun.nio.fs.WindowsPath.toRealPath(WindowsPath.java:907)
+	at java.base/sun.nio.fs.WindowsPath.toRealPath(WindowsPath.java:42)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionAbsolutePath.dealias(ScalametaCommonEnrichments.scala:408)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:151)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:209)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:787)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:784)
+	at scala.meta.internal.metals.codeactions.ExtractRenameMember.$anonfun$contribute$1(ExtractRenameMember.scala:53)
+	at scala.meta.internal.metals.codeactions.ExtractRenameMember$$Lambda/0x00000000b0649228.apply(Unknown Source)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:691)
+	at scala.concurrent.Future$$$Lambda/0x00000000b01422f8.apply(Unknown Source)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:500)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.runWith(Thread.java:1487)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+2026.03.17 23:59:21 WARN  Running javac-semanticdb failed for file:///E:/codedecode/dsa/OOP/All-in-One.java. Output:
+An exception has occurred in the compiler (25.0.1). Please file a bug against the Java compiler via the Java bug reporting page (https://bugreport.java.com) after checking the Bug Database (https://bugs.java.com) for duplicates. Include your program, the following diagnostic, and the parameters passed to the Java compiler in your report. Thank you.
+java.lang.OutOfMemoryError: Java heap space
+	at jdk.zipfs/jdk.nio.zipfs.ZipFileSystem.getFileAttributes(ZipFileSystem.java:574)
+	at jdk.zipfs/jdk.nio.zipfs.ZipPath.readAttributes(ZipPath.java:756)
+	at jdk.zipfs/jdk.nio.zipfs.ZipPath.readAttributes(ZipPath.java:766)
+	at jdk.zipfs/jdk.nio.zipfs.ZipFileSystemProvider.readAttributes(ZipFileSystemProvider.java:282)
+	at java.base/java.nio.file.Files.readAttributes(Files.java:1702)
+	at java.base/java.nio.file.FileTreeWalker.getAttributes(FileTreeWalker.java:216)
+	at java.base/java.nio.file.FileTreeWalker.visit(FileTreeWalker.java:268)
+	at java.base/java.nio.file.FileTreeWalker.next(FileTreeWalker.java:354)
+	at java.base/java.nio.file.Files.walkFileTree(Files.java:2577)
+	at jdk.compiler/com.sun.tools.javac.file.JavacFileManager$ArchiveContainer.<init>(JavacFileManager.java:585)
+	at jdk.compiler/com.sun.tools.javac.file.JavacFileManager.getContainer(JavacFileManager.java:332)
+	at jdk.compiler/com.sun.tools.javac.file.JavacFileManager.pathsAndContainers(JavacFileManager.java:1096)
+	at jdk.compiler/com.sun.tools.javac.file.JavacFileManager.indexPathsAndContainersByRelativeDirectory(JavacFileManager.java:1051)
+	at jdk.compiler/com.sun.tools.javac.file.JavacFileManager$$Lambda/0x00000000b077c710.apply(Unknown Source)
+	at java.base/java.util.HashMap.computeIfAbsent(HashMap.java:1229)
+	at jdk.compiler/com.sun.tools.javac.file.JavacFileManager.pathsAndContainers(JavacFileManager.java:1039)
+	at jdk.compiler/com.sun.tools.javac.file.JavacFileManager.list(JavacFileManager.java:787)
+	at jdk.compiler/com.sun.tools.javac.code.ClassFinder.list(ClassFinder.java:748)
+	at jdk.compiler/com.sun.tools.javac.code.ClassFinder.scanUserPaths(ClassFinder.java:686)
+	at jdk.compiler/com.sun.tools.javac.code.ClassFinder.fillIn(ClassFinder.java:567)
+	at jdk.compiler/com.sun.tools.javac.code.ClassFinder.complete(ClassFinder.java:311)
+	at jdk.compiler/com.sun.tools.javac.code.ClassFinder$$Lambda/0x00000000b06d6a28.complete(Unknown Source)
+	at jdk.compiler/com.sun.tools.javac.code.Symtab.lambda$addRootPackageFor$0(Symtab.java:851)
+	at jdk.compiler/com.sun.tools.javac.code.Symtab$$Lambda/0x00000000b06efb40.complete(Unknown Source)
+	at jdk.compiler/com.sun.tools.javac.code.Symbol.complete(Symbol.java:703)
+	at jdk.compiler/com.sun.tools.javac.comp.Enter.visitTopLevel(Enter.java:360)
+	at jdk.compiler/com.sun.tools.javac.tree.JCTree$JCCompilationUnit.accept(JCTree.java:555)
+	at jdk.compiler/com.sun.tools.javac.comp.Enter.classEnter(Enter.java:292)
+	at jdk.compiler/com.sun.tools.javac.comp.Enter.classEnter(Enter.java:307)
+	at jdk.compiler/com.sun.tools.javac.comp.Enter.complete(Enter.java:620)
+	at jdk.compiler/com.sun.tools.javac.comp.Enter.main(Enter.java:601)
+	at jdk.compiler/com.sun.tools.javac.main.JavaCompiler.enterTrees(JavaCompiler.java:1068)
+
+2026.03.17 23:59:21 INFO  time: code lens generation in 26s
+Mar 17, 2026 11:59:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3738
+Mar 17, 2026 11:59:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3741
+Mar 17, 2026 11:59:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3744
+2026.03.17 23:59:21 INFO  no build target found for E:\codedecode\dsa\OOP\All-in-One.java. Using fallback presentation compiler.
+2026.03.17 23:59:21 INFO  no build target found for E:\codedecode\dsa\OOP\All-in-One.java. Using fallback presentation compiler.
+Mar 17, 2026 11:59:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3746
+Mar 17, 2026 11:59:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3747
+Mar 17, 2026 11:59:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3735
+Mar 17, 2026 11:59:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3749
+2026.03.17 23:59:21 INFO  no build target found for E:\codedecode\dsa\OOP\All-in-One.java. Using fallback presentation compiler.
+2026.03.17 23:59:21 INFO  no build target found for E:\codedecode\dsa\OOP\All-in-One.java. Using fallback presentation compiler.
+2026.03.17 23:59:21 INFO  no build target found for E:\codedecode\dsa\OOP\All-in-One.java. Using fallback presentation compiler.
+Mar 17, 2026 11:59:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3752
+Mar 17, 2026 11:59:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3757
+2026.03.17 23:59:21 INFO  no build target found for E:\codedecode\dsa\OOP\All-in-One.java. Using fallback presentation compiler.
+Mar 17, 2026 11:59:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3753
+2026.03.17 23:59:21 INFO  no build target found for E:\codedecode\dsa\OOP\All-in-One.java. Using fallback presentation compiler.
+Mar 17, 2026 11:59:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3759
+2026.03.17 23:59:21 INFO  no build target found for E:\codedecode\dsa\OOP\All-in-One.java. Using fallback presentation compiler.
+Mar 17, 2026 11:59:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3760
+2026.03.17 23:59:21 INFO  no build target found for E:\codedecode\dsa\OOP\All-in-One.java. Using fallback presentation compiler.
+Mar 17, 2026 11:59:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3762
+2026.03.17 23:59:25 INFO  no build target found for E:\codedecode\dsa\OOP\All-in-One.java. Using fallback presentation compiler.
+2026.03.17 23:59:25 INFO  time: code lens generation in 4.43s
+Mar 17, 2026 11:59:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3765
+2026.03.17 23:59:25 INFO  no build target found for E:\codedecode\dsa\OOP\All-in-One.java. Using fallback presentation compiler.
+Mar 17, 2026 11:59:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3766
+2026.03.17 23:59:32 INFO  no build target found for E:\codedecode\dsa\OOP\All-in-One.java. Using fallback presentation compiler.
+Mar 17, 2026 11:59:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3768
+2026.03.17 23:59:53 INFO  no build target found for E:\codedecode\dsa\OOP\All-in-One.java. Using fallback presentation compiler.
+An exception has occurred in the compiler (25.0.1). Please file a bug against the Java compiler via the Java bug reporting page (https://bugreport.java.com) after checking the Bug Database (https://bugs.java.com) for duplicates. Include your program, the following diagnostic, and the parameters passed to the Java compiler in your report. Thank you.
+java.lang.OutOfMemoryError: Java heap space
+Mar 18, 2026 12:00:31 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.OutOfMemoryError: Java heap space
+java.lang.IllegalStateException: java.lang.OutOfMemoryError: Java heap space
+	at jdk.compiler/com.sun.tools.javac.api.JavacTaskImpl.parse(JavacTaskImpl.java:252)
+	at scala.meta.internal.pc.JavaMetalsGlobal$.scanner(JavaMetalsGlobal.scala:339)
+	at scala.meta.internal.pc.JavaDocumentHighlightProvider.documentHighlight(JavaDocumentHighlightProvider.scala:39)
+	at scala.meta.internal.pc.JavaDocumentHighlightProvider.documentHighlight(JavaDocumentHighlightProvider.scala:25)
+	at scala.meta.internal.pc.JavaPresentationCompiler.documentHighlight(JavaPresentationCompiler.scala:112)
+	at scala.meta.internal.metals.Compilers.$anonfun$documentHighlight$1(Compilers.scala:908)
+	at scala.meta.internal.metals.Compilers.$anonfun$withPCAndAdjustLsp$4(Compilers.scala:1543)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.Compilers.$anonfun$withPCAndAdjustLsp$3(Compilers.scala:1543)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.Compilers.withPCAndAdjustLsp(Compilers.scala:1535)
+	at scala.meta.internal.metals.Compilers.documentHighlight(Compilers.scala:903)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$documentHighlights$1(MetalsLspService.scala:1019)
+	at scala.meta.internal.metals.CancelTokens$.future(CancelTokens.scala:38)
+	at scala.meta.internal.metals.MetalsLspService.documentHighlights(MetalsLspService.scala:1018)
+	at scala.meta.internal.metals.WorkspaceLspService.documentHighlights(WorkspaceLspService.scala:541)
+	at scala.meta.metals.lsp.DelegatingScalaService.documentHighlights(DelegatingScalaService.scala:83)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:128)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:265)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:195)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:189)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:97)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+Caused by: java.lang.OutOfMemoryError: Java heap space
+
+Mar 18, 2026 12:00:53 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3769
+2026.03.18 00:01:08 INFO  no build target found for E:\codedecode\dsa\OOP\All-in-One.java. Using fallback presentation compiler.
+Exception in thread "pool-1-thread-165" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "pool-1-thread-166" java.lang.OutOfMemoryError: Java heap space
+An exception has occurred in the compiler (25.0.1). Please file a bug against the Java compiler via the Java bug reporting page (https://bugreport.java.com) after checking the Bug Database (https://bugs.java.com) for duplicates. Include your program, the following diagnostic, and the parameters passed to the Java compiler in your report. Thank you.
+Exception in thread "pool-1-thread-147" java.lang.OutOfMemoryError: Java heap space
+java.lang.OutOfMemoryError: Java heap space
+Mar 18, 2026 12:01:51 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: Java heap space
+java.lang.OutOfMemoryError: Java heap space
+
+Mar 18, 2026 12:01:51 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.IllegalStateException: java.lang.OutOfMemoryError: Java heap space
+java.util.concurrent.CompletionException: java.lang.IllegalStateException: java.lang.OutOfMemoryError: Java heap space
+	at java.base/java.util.concurrent.CompletableFuture.wrapInCompletionException(CompletableFuture.java:323)
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:376)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:391)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:729)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:531)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2221)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:517)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+Caused by: java.lang.IllegalStateException: java.lang.OutOfMemoryError: Java heap space
+	at jdk.compiler/com.sun.tools.javac.api.JavacTaskImpl.parse(JavacTaskImpl.java:252)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor$.getTrees(JavaFoldingRangeExtractor.scala:125)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor$.extract(JavaFoldingRangeExtractor.scala:169)
+	at scala.meta.internal.parsing.FoldingRangeProvider.$anonfun$getRangedForJava$2(FoldingRangeProvider.scala:52)
+	at scala.Option$WithFilter.map(Option.scala:242)
+	at scala.meta.internal.parsing.FoldingRangeProvider.getRangedForJava(FoldingRangeProvider.scala:48)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$foldingRange$3(MetalsLspService.scala:1262)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:691)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:500)
+	... 3 more
+Caused by: java.lang.OutOfMemoryError: Java heap space
+
+2026.03.18 00:01:51 ERROR Can't run javac on E:\codedecode\dsa\OOP\All-in-One.java with options: [-cp
+C:\Users\rpash\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\com\sourcegraph\semanticdb-javac\0.11.2\semanticdb-javac-0.11.2.jar
+-d
+C:\Users\rpash\AppData\Local\Temp\metals-javac-semanticdb6898118650658777850\target
+-Xplugin:semanticdb -sourceroot:E:\codedecode\dsa\OOP -targetroot:C:\Users\rpash\AppData\Local\Temp\metals-javac-semanticdb6898118650658777850\target]
+java.lang.RuntimeException: java.lang.OutOfMemoryError: Java heap space
+	at com.sun.tools.javac.api.JavacTaskImpl.invocationHelper(JavacTaskImpl.java:168)
+	at com.sun.tools.javac.api.JavacTaskImpl.doCall(JavacTaskImpl.java:100)
+	at com.sun.tools.javac.api.JavacTaskImpl.call(JavacTaskImpl.java:94)
+	at scala.meta.internal.metals.DownloadedJavaInteractiveSemanticdb.textDocument(JavaInteractiveSemanticdb.scala:94)
+	at scala.meta.internal.metals.InteractiveSemanticdbs.$anonfun$compile$1(InteractiveSemanticdbs.scala:142)
+	at scala.util.Try$.apply(Try.scala:217)
+	at scala.meta.internal.metals.InteractiveSemanticdbs.compile(InteractiveSemanticdbs.scala:141)
+	at scala.meta.internal.metals.InteractiveSemanticdbs.$anonfun$textDocument$3(InteractiveSemanticdbs.scala:103)
+	at java.util.HashMap.compute(HashMap.java:1325)
+	at java.util.Collections$SynchronizedMap.compute(Collections.java:3087)
+	at scala.meta.internal.metals.InteractiveSemanticdbs.textDocument(InteractiveSemanticdbs.scala:93)
+	at scala.meta.internal.metals.InteractiveSemanticdbs.textDocument(InteractiveSemanticdbs.scala:54)
+	at scala.meta.internal.metals.AggregateSemanticdbs.loop$1(AggregateSemanticdbs.scala:30)
+	at scala.meta.internal.metals.AggregateSemanticdbs.textDocument(AggregateSemanticdbs.scala:36)
+	at scala.meta.internal.metals.CodeLensProvider.findLenses(CodeLensProvider.scala:25)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$codeLens$3(MetalsLspService.scala:1246)
+	at scala.meta.internal.metals.TimerProvider.timedThunk(TimerProvider.scala:25)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$codeLens$2(MetalsLspService.scala:1244)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:503)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.lang.Thread.run(Thread.java:1474)
+Caused by: java.lang.OutOfMemoryError: Java heap space
+
+2026.03.18 00:01:51 WARN  sql closed: select build_target_uri from dependency_source where text_document_uri = ?;
+2026.03.18 00:01:51 WARN  sql closed: select build_target_uri from dependency_source where text_document_uri = ?;
+2026.03.18 00:01:51 WARN  sql closed: select build_target_uri from dependency_source where text_document_uri = ?;
+2026.03.18 00:01:51 WARN  sql closed: select build_target_uri from dependency_source where text_document_uri = ?;
+2026.03.18 00:01:51 WARN  sql closed: select build_target_uri from dependency_source where text_document_uri = ?;
+2026.03.18 00:01:51 WARN  sql closed: select build_target_uri from dependency_source where text_document_uri = ?;
+2026.03.18 00:01:51 WARN  sql closed: select build_target_uri from dependency_source where text_document_uri = ?;
